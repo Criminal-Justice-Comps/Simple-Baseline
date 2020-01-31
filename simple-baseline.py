@@ -8,7 +8,7 @@ Contains 3 Algorithms to Predict Recidivism & a Visualization of their Results:
 -------------------------------------------------
 TO RUN
     1: change GROUND_TRUTH_NAME to the ground truth value in your input dataset
-    2: run the command: python3 read_in_prelim.py __filenamehere__
+    2: run the command: python3 simple-baseline.py __filenamehere__
 
 -------------------------------------------------
 """
@@ -20,6 +20,9 @@ import copy
 import matplotlib.pyplot as plt
 import math
 from random import randint
+import json
+#import importlib
+#import measure-fairness
 
 DECILE_SCORE_NAME = 'decile_score'
 #GROUND_TRUTH_NAME = 'two_year_recid'
@@ -38,6 +41,9 @@ def main():
     args = parse_args()
     features, features_with_values, all_people = load_data(args.filename)
     display_all_methods(all_people)
+    #importlib.import_module("../Fairness/test.py")
+    #test.sayHi()
+    #test.sayHi()
 
 
 """
@@ -167,7 +173,7 @@ def get_accuracy(guesses, correct):
     return total_correct/len(guesses)
 
 # Input: a list of dictionaries (where each dict represents a person)
-# Output: integer between 0-1 representing what % of the guesses were correct
+# Output: integer between 0-1 representing what % of the guesses were correct, guesses list (0 or 1)
 # More info: COMPAS assigns a recividism likelihood score of 1-10 (least to most likely)
 #            this function assumes all people with scores 1-5 will not recidivate (0)
 #            & that all people with scores 6-10 will recidivate (1)
@@ -178,7 +184,7 @@ def get_acc_compas(data):
           guesses.append(1)
       else:
           guesses.append(0)
-    return get_accuracy(guesses, data)
+    return guesses, get_accuracy(guesses, data)
 
 def get_distances_from_correct(guesses, data):
     distances = []
@@ -313,6 +319,26 @@ def plot_all_accuracy(accuracies, accuracy_labels):
 Section 6: Calling All Functions
 -------------------------------------------------
 '''
+# borrowed from split-cat-num.py
+def create_filestring(data):
+    # creates a string to write to a file based on the passed list
+    string = ''
+    for person in data:
+        for attribute in person:
+            string += str(attribute)
+            string += ","
+        string = string[:-1]
+        string += "\n"
+    return string
+
+# borrowed from split-cat-num.py
+def create_file(filename, data):
+    # writes a csv file in `filename` based containing `data`
+    string = create_filestring(data)
+    with open(filename, 'w') as file:
+        file.write(string)
+
+
 def display_all_methods(all_people):
     print("-------------------------------------------------")
 
@@ -324,7 +350,7 @@ def display_all_methods(all_people):
     #plot_dist(decile, all_people)
     plot_pr_nr_acc(get_pr_nr(decile, all_people), acc, "Random Baseline Results")
 
-    acc_compas = get_acc_compas(all_people)
+    compas_guesses, acc_compas = get_acc_compas(all_people)
     dist_compas = get_mean_distance_compas(all_people)
     print("\nCOMPAS accuracy:", acc_compas)
     print("COMPAS mean distance:", dist_compas)
@@ -332,7 +358,7 @@ def display_all_methods(all_people):
     plot_pr_nr_acc(get_pr_nr_compas(all_people), acc_compas, "COMPAS Results")
 
     transformed_data = transform_score(all_people, foolish_condition, transform_decile_true, transform_decile_false)
-    acc_foolish = get_acc_compas(transformed_data)
+    foolish_guesses, acc_foolish = get_acc_compas(transformed_data)
     dist_foolish = get_mean_distance_compas(transformed_data)
     print("\nFoolish Transformation accuracy:", acc_foolish)
     print("Foolish Transformation mean distance:", dist_foolish)
@@ -342,6 +368,18 @@ def display_all_methods(all_people):
     all_accs = [acc, acc_compas, acc_foolish]
     acc_labels = ["Random Basline", "COMPAS", "Stereotyped Condition"]
     plot_all_accuracy(all_accs, acc_labels)
+
+    data_guesses_dict = {"people":all_people, "random":guesses,
+                         "foolish":foolish_guesses, "compas":compas_guesses}
+    data_guesses_str = str(data_guesses_dict)
+
+
+    with open("../Fairness/simpleBaselineData.json", 'w') as file:
+        #file.write(data_guesses_str)
+        json.dump(data_guesses_dict, file)
+    # save results to file
+
+
     print("-------------------------------------------------")
 
 """
@@ -373,7 +411,8 @@ def translation_grid_search(all_people, start=0, stop=10, step=1):
         inner_dists = []
         for j in range(start, stop + 1, step):
             transformed_data = transform_score(all_people, foolish_condition, translate_score, translate_score_false, i, j)
-            inner_acc.append(get_acc_compas(transformed_data))
+            guesses, acc = get_acc_compas(transformed_data)
+            inner_acc.append(acc)
             inner_dists.append(get_mean_distance_compas(transformed_data))
         accs.append(inner_acc)
         dists.append(inner_dists)
