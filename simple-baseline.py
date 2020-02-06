@@ -21,8 +21,6 @@ import matplotlib.pyplot as plt
 import math
 from random import randint
 import json
-#import importlib
-#import measure-fairness
 
 DECILE_SCORE_NAME = 'decile_score'
 #GROUND_TRUTH_NAME = 'two_year_recid'
@@ -41,9 +39,6 @@ def main():
     args = parse_args()
     features, features_with_values, all_people = load_data(args.filename)
     display_all_methods(all_people)
-    #importlib.import_module("../Fairness/test.py")
-    #test.sayHi()
-    #test.sayHi()
 
 
 """
@@ -106,7 +101,7 @@ def random_baseline(data):
     decile = []
     count_less = 0
     for i in range(len(data)):
-        rand_num = randint(0,1)
+        rand_num = randint(0,1) # use a random number to guess 0 or 1
         if rand_num == 0:
             guesses.append(0)
             decile.append(1)
@@ -186,6 +181,10 @@ def get_acc_compas(data):
           guesses.append(0)
     return guesses, get_accuracy(guesses, data)
 
+# Input: a list of ints (0-10), a list of dictionaries (where each dict represents a person)
+# Output: a list of ints (0-10) represnting how "far" from correct the COMPAS guesses were
+# More info: If for personA COMPAS guessed "4", and the ground truth value was 1,
+#            then the distance from correct for personA is 6
 def get_distances_from_correct(guesses, data):
     distances = []
     for i in range(len(data)):
@@ -202,10 +201,14 @@ def get_distances_from_correct(guesses, data):
         exit(0)
     return distances
 
+# Input: a list of ints (0-10), a list of dictionaries (where each dict represents a person)
+# Output: a float, representing the mean of all the "distances from correct"
 def get_mean_distance(guesses, data):
     distances = get_distances_from_correct(guesses, data)
     return sum(distances)/len(distances)
 
+# Input: a list of ints (0-10), a list of dictionaries (where each dict represents a person)
+# Output: a float, representing the mean of all the "distances from correct"
 def get_mean_distance_compas(data):
     guesses = [person[DECILE_SCORE_NAME] for person in data]
     distances = get_distances_from_correct(guesses, data)
@@ -316,7 +319,7 @@ def plot_all_accuracy(accuracies, accuracy_labels):
 
 '''
 -------------------------------------------------
-Section 6: Calling All Functions
+Section 6: Create CSV/JSON files to export algorithm results
 -------------------------------------------------
 '''
 # borrowed from split-cat-num.py
@@ -332,16 +335,34 @@ def create_filestring(data):
     return string
 
 # borrowed from split-cat-num.py
-def create_file(filename, data):
+def create_file(filename, data,create_filestring=True):
     # writes a csv file in `filename` based containing `data`
-    string = create_filestring(data)
+    if create_filestring:
+        string = create_filestring(data)
+    else:
+        string = data
     with open(filename, 'w') as file:
         file.write(string)
 
+def getTruthGuessString(guesses, all_data):
+    string = "predicted,truth\n"
+    for i in range(len(guesses)):
+        newLine = str(guesses[i]) + "," + str(all_data[i][GROUND_TRUTH_NAME]) + "\n"
+        string += newLine
+    return string
 
+
+'''
+-------------------------------------------------
+Section 7: Calling All Algorithms
+-------------------------------------------------
+'''
+# Provides results of random baseline, foolish assumption, and COMPAS
+# via printed float values and pop-up bar graphs
 def display_all_methods(all_people):
     print("-------------------------------------------------")
 
+    # RANDOM BASELINE
     guesses, decile = random_baseline(all_people)
     acc = get_accuracy(guesses, all_people)
     dist = get_mean_distance(decile, all_people)
@@ -349,7 +370,9 @@ def display_all_methods(all_people):
     print("Random baseline mean distance:", dist)
     #plot_dist(decile, all_people)
     plot_pr_nr_acc(get_pr_nr(decile, all_people), acc, "Random Baseline Results")
+    create_file("randomBaselineResults.csv",getTruthGuessString(guesses, all_people), False)
 
+    # COMPAS
     compas_guesses, acc_compas = get_acc_compas(all_people)
     dist_compas = get_mean_distance_compas(all_people)
     print("\nCOMPAS accuracy:", acc_compas)
@@ -357,6 +380,7 @@ def display_all_methods(all_people):
     #plot_dist_compas(all_people)
     plot_pr_nr_acc(get_pr_nr_compas(all_people), acc_compas, "COMPAS Results")
 
+    # FOOLISH ASSUMPTION
     transformed_data = transform_score(all_people, foolish_condition, transform_decile_true, transform_decile_false)
     foolish_guesses, acc_foolish = get_acc_compas(transformed_data)
     dist_foolish = get_mean_distance_compas(transformed_data)
@@ -364,27 +388,26 @@ def display_all_methods(all_people):
     print("Foolish Transformation mean distance:", dist_foolish)
     #plot_dist_compas(transformed_data)
     plot_pr_nr_acc(get_pr_nr_compas(transformed_data), acc_foolish, "Stereotyped Condition Results")
+    create_file("foolishConditionResults.csv",getTruthGuessString(foolish_guesses, all_people), False)
 
+    # Create a bar chart comparing the accuracies of the 3 algorithms
     all_accs = [acc, acc_compas, acc_foolish]
     acc_labels = ["Random Basline", "COMPAS", "Stereotyped Condition"]
     plot_all_accuracy(all_accs, acc_labels)
 
+    # Create a json file with the results of the 3 algorithms
     data_guesses_dict = {"people":all_people, "random":guesses,
                          "foolish":foolish_guesses, "compas":compas_guesses}
     data_guesses_str = str(data_guesses_dict)
 
-
     with open("../Fairness/simpleBaselineData.json", 'w') as file:
-        #file.write(data_guesses_str)
         json.dump(data_guesses_dict, file)
-    # save results to file
-
 
     print("-------------------------------------------------")
 
 """
 -------------------------------------------------
-Section 7: Other
+Section 8: Other
 -------------------------------------------------
 """
 # Input: score (int), translate (int, default val 2)
@@ -424,7 +447,7 @@ def translation_grid_search(all_people, start=0, stop=10, step=1):
 
 """
 -------------------------------------------------
-Section 8: Discuss with Group (TODO)
+Section 9: Discuss with Group (TODO)
 -------------------------------------------------
 """
 # Issue: uses the recidivism rate in the data to
