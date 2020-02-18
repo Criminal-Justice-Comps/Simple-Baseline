@@ -29,6 +29,7 @@ DID_RECIDIVISE_NAME = '1'
 NO_RECIDIVISE_NAME = '0'
 NUMERIC_ISH_FEATURESP_1 = ['DateOfBirth', 'Person_ID', 'AssessmentID', 'Case_ID', 'Screening_Date', 'RawScore', 'DecileScore']
 NUMERIC_ISH_FEATURES = ['id', 'age', 'decile_score']
+JSON_FILE_PATH = "../Fairness/simpleBaselineData.json"
 
 """
 -------------------------------------------------
@@ -400,7 +401,7 @@ def display_all_methods(all_people):
                          "foolish":foolish_guesses, "compas":compas_guesses}
     data_guesses_str = str(data_guesses_dict)
 
-    with open("../Fairness/simpleBaselineData.json", 'w') as file:
+    with open(JSON_FILE_PATH, 'w') as file:
         json.dump(data_guesses_dict, file)
 
     print("-------------------------------------------------")

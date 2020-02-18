@@ -1,0 +1,1178 @@
+person_id,sex,race,age,juv_fel_count,juv_misd_count,juv_other_count,decile_score,priors_count,c_charge_degree,c_charge_desc,num_r_cases,r_charge_degree,r_charge_desc,num_vr_cases,vr_charge_degree,vr_charge_desc,is_recid,is_violent_recid
+7,Male,Other,44,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+18,Male,African-American,41,0,0,0,4,0,(F3),Poss3;4 Methylenedioxymethcath,,,,,,,0,0
+27,Male,Caucasian,27,0,0,0,2,0,(M1),Possession Of Methamphetamine,1,(M2),Operating W/O Valid License,,,,1,0
+41,Male,Caucasian,30,0,0,0,9,9,(F3),Felony Battery w/Prior Convict,1,(F3),Grand Theft (Motor Vehicle),,,,1,0
+47,Male,African-American,32,0,0,0,10,15,(F3),Felony Petit Theft,,,,,,,0,0
+59,Male,Caucasian,29,0,0,0,2,2,(M1),Viol Injunct Domestic Violence,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+70,Male,African-American,29,0,0,0,4,0,(F3),Tampering With Physical Evidence,,,,,,,0,0
+76,Male,Caucasian,33,0,0,0,9,1,(F3),Grand Theft Dwell Property,,,,,,,0,0
+79,Male,African-American,31,0,0,1,5,15,(F2),Attempt Armed Burglary Dwell,1,(M2),Operating W/O Valid License,,,,1,0
+111,Male,African-American,40,0,0,0,2,2,(F3),arrest case no charge,,,,,,,0,0
+114,Male,Caucasian,22,0,0,0,8,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+116,Male,Caucasian,27,0,0,0,7,1,(F7),Burglary Dwelling Assault/Batt,1,(M1),Felony Battery w/Prior Convict,,(M1),Felony Battery w/Prior Convict,1,1
+122,Male,African-American,30,0,0,0,10,8,(M1),Possess Cannabis/20 Grams Or Less,2,(M1),Possess Cannabis/20 Grams Or Less,,(F3),Battery on a Person Over 65,1,1
+128,Male,African-American,25,1,6,1,10,14,(F2),arrest case no charge,5,(M1),Resist/Obstruct W/O Violence,,(M1),Battery,1,1
+133,Male,African-American,54,0,0,0,6,6,(F1),arrest case no charge,,,,,,,0,0
+137,Male,African-American,36,0,0,0,7,9,(F2),Deliver Cocaine,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+144,Male,African-American,34,0,0,0,3,3,(M1),Battery,,,,,,,0,0
+152,Male,African-American,24,0,0,0,2,1,(F2),arrest case no charge,,,,,,,0,0
+158,Male,Caucasian,31,0,0,0,5,0,(M1),Battery,,,,,,,0,0
+164,Male,African-American,21,1,0,1,9,2,(F3),Tampering With Physical Evidence,,,,,,,0,0
+170,Male,African-American,27,0,0,0,9,3,(F3),Robbery / No Weapon,,,,,,,0,0
+180,Male,African-American,31,0,0,0,7,1,(M1),Battery,,,,,,,0,0
+184,Male,African-American,27,0,0,0,9,3,(F3),Possession of Cocaine,3,(F3),Felony Driving While Lic Suspd,,,,1,0
+204,Male,African-American,37,0,0,0,8,13,(F3),arrest case no charge,,,,,,,0,0
+217,Male,African-American,28,0,0,0,10,15,(F2),Poss of Firearm by Convic Felo,,,,,,,0,0
+221,Male,African-American,42,0,0,0,1,2,(F2),arrest case no charge,,,,,,,0,0
+232,Female,Caucasian,26,0,0,0,6,0,(M2),Fail To Obey Police Officer,,,,,,,0,0
+250,Male,Caucasian,41,0,0,0,10,5,(F3),Felony Petit Theft,,,,,,,0,0
+278,Male,African-American,23,0,0,0,2,0,(M1),Battery,1,(M1),Extradition/Defendants,,,,1,0
+295,Male,African-American,38,0,0,0,10,14,(F3),Possession of Oxycodone,,,,,,,0,0
+302,Female,African-American,35,0,1,0,9,23,(F3),Felony Petit Theft,3,(F3),Felony Petit Theft,,,,1,0
+317,Female,African-American,28,0,0,0,9,1,(F1),arrest case no charge,,,,,,,0,0
+322,Male,African-American,45,0,0,0,6,3,(F3),arrest case no charge,,,,,,,0,0
+332,Female,African-American,30,0,0,0,7,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+335,Male,African-American,37,0,0,0,1,0,(M1),Battery,1,(M1),Battery,,(M1),Battery,1,1
+359,Male,African-American,32,0,1,0,9,14,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+377,Female,Caucasian,24,0,0,0,7,1,(M1),Battery,1,(M1),Battery,,(M1),Battery,1,1
+380,Male,African-American,47,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+390,Male,African-American,27,0,0,0,4,4,(F3),arrest case no charge,,,,,,,0,0
+393,Female,African-American,37,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+397,Male,African-American,46,1,0,0,8,5,(M1),Battery,,,,,,,0,0
+423,Male,Caucasian,37,0,0,0,1,3,(F3),arrest case no charge,,,,,,,0,0
+428,Male,Caucasian,46,0,0,0,4,3,(F3),arrest case no charge,,,,,,,0,0
+433,Female,Caucasian,34,0,0,0,8,0,(F3),Poss Unlaw Issue Id,,,,,,,0,0
+437,Male,Caucasian,23,0,0,0,5,0,(F3),Aggravated Assault W/Dead Weap,1,(M2),Leave Acc/Attend Veh/More $50,,,,1,0
+455,Male,Other,57,0,0,0,1,6,(M1),Battery,,,,,,,0,0
+468,Male,African-American,27,0,0,0,2,0,(F2),Aggrav Battery w/Deadly Weapon,,,,,,,0,0
+480,Male,African-American,20,0,0,0,9,0,(F3),Grand Theft in the 3rd Degree,1,(MO3),Enter City Park/ Prohibited Hrs,,,,1,0
+488,Male,Caucasian,36,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+489,Male,Caucasian,28,0,0,0,3,2,(M1),Battery,1,(M2),Driving License Suspended,,(M1),Battery,1,1
+515,Male,African-American,37,0,0,0,2,4,(M1),Battery,,,,,,,0,0
+516,Male,African-American,32,0,1,0,9,12,(F3),arrest case no charge,1,(M2),Driving License Suspended,,(F2),Robbery / No Weapon,1,1
+517,Male,African-American,23,0,0,1,6,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+535,Male,Caucasian,28,0,0,0,2,0,(F3),Possession Of Heroin,,,,,,,0,0
+554,Male,Caucasian,29,0,0,0,8,2,(M2),Burglary Unoccupied Dwelling,,,,,,,0,0
+584,Male,African-American,35,0,0,0,5,2,(F3),Possession of Cannabis,,,,,,,0,0
+585,Male,African-American,36,0,0,0,7,8,(F3),Possession of Ethylone,,,,,,,0,0
+587,Male,African-American,60,0,0,0,1,1,(F1),arrest case no charge,,,,,,,0,0
+605,Male,African-American,26,0,0,2,7,6,(F2),Poss Cocaine/Intent To Del/Sel,,,,,,,0,0
+607,Male,Caucasian,65,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+617,Male,Other,60,0,0,0,1,4,(F3),arrest case no charge,,,,,,,0,0
+626,Female,Caucasian,47,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+628,Male,Caucasian,25,0,0,0,2,0,(M1),Driving Under The Influence,2,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+636,Male,African-American,22,0,0,0,5,2,(F2),Robbery / No Weapon,,,,,,,0,0
+674,Male,African-American,24,0,0,0,2,1,(M1),Battery,1,(M1),Battery,,(M1),Battery,1,1
+676,Male,Caucasian,34,0,0,0,6,9,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+678,Female,African-American,50,0,0,0,2,3,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+686,Male,Caucasian,41,0,0,0,1,0,(M1),Battery,1,(M2),Petit Theft,,,,1,0
+696,Female,Other,34,0,0,0,7,4,(F2),arrest case no charge,3,(F3),Possession of Cocaine,,,,1,0
+699,Male,Caucasian,59,0,0,0,1,0,(M2),Lve/Scen/Acc/Veh/Prop/Damage,,,,,,,0,0
+709,Male,African-American,35,0,0,1,7,8,(F3),Felony Battery w/Prior Convict,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+711,Female,African-American,24,1,0,0,9,6,(F2),arrest case no charge,2,(M1),Unlaw Use False Name/Identity,,,,1,0
+739,Male,African-American,26,0,0,0,9,2,(M2),arrest case no charge,,,,,,,0,0
+742,Male,Caucasian,33,0,0,0,9,0,(F3),Possession of Cocaine,,,,,,,0,0
+774,Male,African-American,26,0,0,0,7,1,(F3),Tampering With Physical Evidence,,,,,,,0,0
+777,Male,Caucasian,39,0,0,0,1,4,(F2),arrest case no charge,,,,,,,0,0
+779,Female,African-American,35,0,0,0,2,12,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+808,Male,Caucasian,27,0,1,3,4,6,(F3),Felony Battery (Dom Strang),1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+823,Male,African-American,42,0,0,0,7,14,(F3),Drivg While Lic Suspd/Revk/Can,1,(F3),Driving While License Revoked,,,,1,0
+826,Female,Caucasian,26,0,0,0,2,1,(F3),Uttering a Forged Instrument,,,,,,,0,0
+840,Male,African-American,27,0,0,0,5,0,(F1),Consp Traff Oxycodone 28g><30k,,,,,,,0,0
+845,Male,African-American,24,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+850,Male,African-American,21,0,2,0,5,3,(F2),arrest case no charge,3,(F3),Grand Theft in the 3rd Degree,,(F2),Robbery / No Weapon,1,1
+864,Male,Hispanic,24,0,0,0,8,8,(F3),Possession of Cannabis,,,,,,,0,0
+865,Female,Caucasian,23,0,0,1,8,3,(M2),Driving License Suspended,,,,,,,0,0
+868,Female,African-American,37,0,0,0,1,0,(F3),Aggravated Assault w/Firearm,,,,,,,0,0
+871,Male,Caucasian,42,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+876,Male,Caucasian,34,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+890,Male,Other,30,0,0,0,6,0,(M1),Battery,1,(M2),Operating W/O Valid License,,,,1,0
+893,Male,Hispanic,31,0,0,0,1,0,(M2),DUI Property Damage/Injury,,,,,,,0,0
+898,Male,African-American,28,0,0,0,8,4,(F2),arrest case no charge,7,(F3),Tampering With Physical Evidence,,,,1,0
+901,Male,African-American,27,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+906,Female,Caucasian,24,0,0,1,5,0,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+910,Male,African-American,26,0,0,0,4,1,(F3),Agg Fleeing and Eluding,,,,,,,0,0
+929,Male,Caucasian,24,0,0,1,4,2,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+945,Male,African-American,26,0,0,0,8,6,(M1),Possess Cannabis/20 Grams Or Less,,,,,,,0,0
+959,Male,African-American,20,0,1,1,9,4,(F3),arrest case no charge,2,(F3),Grand Theft in the 3rd Degree,,,,1,0
+960,Male,Caucasian,26,0,0,0,7,3,(F2),Burglary Conveyance Occupied,1,(M2),Operating W/O Valid License,,,,1,0
+967,Male,African-American,27,0,2,1,9,18,(F3),Felony Petit Theft,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+973,Female,Caucasian,57,0,0,0,4,0,(M2),Disorderly Conduct,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+985,Male,Hispanic,31,0,0,0,2,1,(F2),arrest case no charge,,,,,,,0,0
+991,Male,African-American,23,0,0,0,7,4,(F3),arrest case no charge,,,,,,,0,0
+1001,Male,African-American,47,0,0,0,9,20,(F3),Tamper With Witness/Victim/CI,,,,,,,0,0
+1004,Male,Hispanic,23,0,0,0,6,2,(M1),Possess Cannabis/20 Grams Or Less,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+1005,Male,African-American,65,0,0,0,2,2,(M1),Violation of Injunction Order/Stalking/Cyberstalking,1,(F2),Aggrav Battery w/Deadly Weapon,,(F2),Aggrav Battery w/Deadly Weapon,1,1
+1011,Male,African-American,36,0,0,0,2,1,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+1026,Male,African-American,46,0,0,0,9,17,(F3),arrest case no charge,2,(F3),,,,,1,0
+1027,Male,African-American,22,0,0,1,9,3,(F3),arrest case no charge,,,,,,,0,0
+1043,Male,African-American,31,0,0,0,7,5,(F3),arrest case no charge,,,,,,,0,0
+1045,Male,African-American,20,0,0,0,8,0,(F3),Burglary Unoccupied Dwelling,,,,,,,0,0
+1051,Male,African-American,33,0,0,0,2,3,(M2),Driving License Suspended,1,(M1),Opert With Susp DL 2nd Offens,,,,1,0
+1055,Male,African-American,33,0,0,0,8,4,(F3),arrest case no charge,1,(F3),Grand Theft in the 3rd Degree,,(F3),Aggravated Assault w/Firearm,1,1
+1060,Male,African-American,44,0,0,0,1,1,(F3),Unauth Poss ID Card or DL,,,,,,,0,0
+1079,Male,African-American,37,0,0,0,1,5,(F2),Aggravated Battery / Pregnant,1,(M1),Battery,,(M1),Battery,1,1
+1108,Female,African-American,30,0,0,0,6,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+1109,Male,African-American,45,0,0,0,4,0,(F3),Grand Theft (Motor Vehicle),1,(M1),Extradition/Defendants,,,,1,0
+1122,Male,African-American,24,0,0,0,3,0,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+1132,Female,Caucasian,53,0,0,0,1,0,(F3),Possession of Cocaine,,,,,,,0,0
+1161,Male,African-American,55,0,0,0,8,19,(F3),Possession of Cocaine,,,,,,,0,0
+1169,Male,African-American,29,0,0,0,4,1,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+1177,Male,Caucasian,47,0,0,0,1,0,(M2),Leave Acc/Attend Veh/More $50,,,,,,,0,0
+1188,Male,African-American,23,0,0,0,4,0,(F1),Sex Battery Deft 18+/Vict 11-,,,,,,,0,0
+1193,Male,Caucasian,48,0,0,0,7,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+1195,Female,African-American,37,0,0,0,7,3,(F3),Resist Officer w/Violence,,,,,,,0,0
+1200,Male,African-American,24,0,0,0,5,0,(F3),Burglary Conveyance Unoccup,1,(M2),Driving License Suspended,,,,1,0
+1215,Male,Hispanic,83,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+1221,Male,Other,29,0,0,0,7,3,(M1),Driving Under The Influence,,,,,,,0,0
+1233,Male,Caucasian,26,0,0,0,4,8,(F3),arrest case no charge,,,,,,,0,0
+1240,Male,African-American,29,0,1,0,10,16,(F3),Possession of Cocaine,,,,,,,0,0
+1249,Male,Caucasian,22,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+1251,Male,African-American,20,0,0,0,3,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+1257,Male,African-American,22,0,0,1,7,1,(M1),Battery,3,(F3),Tampering With Physical Evidence,,(M1),Battery,1,1
+1267,Male,African-American,23,0,0,1,3,0,(F3),Aggravated Assault W/dead Weap,,,,,,,0,0
+1291,Male,Hispanic,58,0,0,0,2,1,(F3),Use Computer for Child Exploit,,,,,,,0,0
+1295,Male,Caucasian,26,0,0,0,4,0,(F3),Possession of Cocaine,,,,,,,0,0
+1312,Male,African-American,33,0,0,0,1,0,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+1320,Male,Other,46,0,0,0,1,0,(F3),Delivery of 5-Fluoro PB-22,,,,,,,0,0
+1331,Male,African-American,23,0,3,1,10,6,(F3),Burglary Conveyance Unoccup,3,(F3),Grand Theft in the 3rd Degree,,,,1,0
+1335,Female,Caucasian,37,0,0,0,4,4,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+1348,Female,African-American,29,0,0,0,5,1,(F1),arrest case no charge,,,,,,,0,0
+1349,Male,Hispanic,43,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+1354,Male,Hispanic,27,0,0,0,1,1,(M2),Expired DL More Than 6 Months,,,,,,,0,0
+1358,Male,African-American,28,0,0,0,6,3,(M1),arrest case no charge,1,(F2),Burglary Unoccupied Dwelling,,,,1,0
+1367,Male,African-American,33,0,0,0,2,0,(F3),Felony Driving While Lic Suspd,2,(F3),Possession of Cannabis,,,,1,0
+1376,Male,Hispanic,28,0,0,0,5,1,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+1381,Male,Caucasian,42,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+1383,Male,Hispanic,30,0,0,0,4,0,(F3),Leaving the Scene of Accident,,,,,,,0,0
+1387,Female,Caucasian,35,0,0,0,3,1,(M1),Battery,,,,,,,0,0
+1393,Male,African-American,49,0,0,0,1,3,(F3),arrest case no charge,6,(F3),Obtain Control Substance By Fraud,,,,1,0
+1397,Male,African-American,63,0,0,0,9,3,(M2),Trespass Structure/Conveyance,,,,,,,0,0
+1411,Female,Hispanic,69,0,0,0,1,0,(M1),DUI - Enhanced,,,,,,,0,0
+1418,Male,Hispanic,45,0,0,0,3,1,(F3),Sex Offender Fail Comply W/Law,,,,,,,0,0
+1427,Male,African-American,32,0,0,0,9,14,(F3),Grand Theft (Motor Vehicle),1,(M1),Possess Cannabis/20 Grams Or Less,,(F2),Throw Deadly Missile Into Veh,1,1
+1433,Male,African-American,21,0,0,0,8,1,(F3),Possession of Cocaine,,,,,,,0,0
+1448,Male,Caucasian,23,0,0,0,3,0,(M1),Viol Injunct Domestic Violence,,,,,,,0,0
+1467,Male,African-American,29,0,0,1,7,10,(F3),Deliver Cannabis,1,(F3),Driving While License Revoked,,,,1,0
+1471,Male,Caucasian,22,0,0,0,5,2,(M1),Battery,1,(F3),Poss3;4 Methylenedioxymethcath,,(F3),Felony Battery (Dom Strang),1,1
+1478,Male,Caucasian,37,0,0,0,2,0,(M2),Prowling/Loitering,,,,,,,0,0
+1479,Male,African-American,52,0,0,0,1,6,(M1),Battery,3,(F3),Possession of Cocaine,,,,1,0
+1484,Male,Caucasian,32,0,0,0,9,8,(F3),Felony Petit Theft,2,(M1),Fraudulent Use Of Credit Card,,,,1,0
+1485,Male,African-American,21,0,0,0,7,1,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,(M1),Battery,1,1
+1504,Male,Hispanic,55,0,0,0,3,6,(F3),arrest case no charge,,,,,,,0,0
+1531,Male,Hispanic,21,0,0,1,5,1,(F3),arrest case no charge,1,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+1535,Male,Hispanic,22,0,0,0,7,1,(M1),Battery,3,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+1578,Male,Caucasian,39,0,0,0,1,1,(F3),Money Launder 100K or More Dols,,,,,,,0,0
+1588,Male,African-American,35,0,0,0,10,1,(M2),Petit Theft,1,(M1),Unlaw Use False Name/Identity,,,,1,0
+1591,Female,Caucasian,53,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+1593,Male,African-American,57,0,0,0,1,0,(F3),Possession of Cocaine,,,,,,,0,0
+1596,Male,African-American,27,0,0,0,3,1,(F3),Possession of Cannabis,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+1610,Male,African-American,21,0,0,2,6,4,(F3),Tampering With Physical Evidence,,,,,,,0,0
+1619,Male,Other,38,0,0,0,4,2,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+1623,Male,African-American,57,0,0,0,7,19,(F3),Felony Battery w/Prior Convict,,,,,,,0,0
+1638,Male,African-American,45,0,0,0,3,10,(F2),Aggrav Battery w/Deadly Weapon,1,(M2),Driving License Suspended,,,,1,0
+1646,Male,Hispanic,47,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+1660,Male,African-American,27,0,0,1,10,9,(F3),arrest case no charge,4,(F3),Fraudulent Use Credit Card,,(F1),Robbery W/Deadly Weapon,1,1
+1666,Female,Caucasian,62,0,0,0,1,2,(F3),Aggravated Assault W/o Firearm,2,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+1667,Male,Caucasian,20,0,0,0,5,0,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+1673,Male,Caucasian,29,0,0,0,7,7,(M2),Criminal Mischief Damage <$200,2,(M2),Petit Theft,,(M1),Assault On Law Enforc Officer,1,1
+1682,Male,Caucasian,40,0,0,0,1,3,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+1684,Female,Caucasian,24,0,0,0,7,2,(F3),arrest case no charge,,,,,,,0,0
+1696,Female,Hispanic,35,0,0,0,8,10,(F3),Felony Battery w/Prior Convict,,,,,,,0,0
+1715,Male,African-American,43,0,0,0,6,9,(F3),Felony Battery,1,(M1),Viol Prot Injunc Repeat Viol,,(M1),Battery,1,1
+1718,Male,African-American,25,0,1,0,9,11,(F3),Grand Theft in the 3rd Degree,1,(F3),Aggravated Assault W/Dead Weap,,(F3),Aggravated Assault W/Dead Weap,1,1
+1725,Female,Hispanic,27,0,0,0,3,0,(F3),Grand Theft in the 3rd Degree,1,(M2),Driving License Suspended,,,,1,0
+1741,Male,African-American,24,0,0,0,6,5,(F3),Uttering a Forged Instrument,3,(M1),Resist/Obstruct W/O Violence,,,,1,0
+1746,Male,Caucasian,25,0,0,0,3,1,(M1),Possess Cannabis/20 Grams Or Less,1,(M2),Operating W/O Valid License,,,,1,0
+1747,Male,Caucasian,31,0,0,0,5,3,(M1),Resist/Obstruct W/O Violence,,,,,,,0,0
+1755,Female,African-American,24,0,0,0,7,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+1792,Male,Other,25,0,0,0,9,7,(F7),Burglary Conveyance Assault/Bat,1,(F3),Neglect Child / No Bodily Harm,,(F2),Neglect Child / Bodily Harm,1,1
+1796,Male,African-American,21,0,0,0,3,0,(F3),Burglary Conveyance Unoccup,1,(M2),Petit Theft,,,,1,0
+1800,Male,African-American,50,0,0,0,5,4,(M2),Assault,,,,,,,0,0
+1801,Female,African-American,23,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+1806,Female,Caucasian,33,0,0,0,5,2,(F3),Criminal Mischief,3,(M1),Trespass Other Struct/Convey,,,,1,0
+1826,Male,Caucasian,47,0,0,0,1,2,(M2),Driving License Suspended,,,,,,,0,0
+1833,Male,Other,24,0,0,0,3,0,(F3),Unauth Poss ID Card or DL,,,,,,,0,0
+1855,Female,Caucasian,27,0,0,0,10,3,(F3),Possession of Ethylone,,,,,,,0,0
+1856,Male,Caucasian,21,0,0,0,4,1,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+1857,Male,African-American,29,0,0,0,8,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+1899,Male,Hispanic,32,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+1906,Male,Caucasian,30,0,0,0,4,3,(M1),Battery,,,,,,,0,0
+1911,Male,African-American,37,0,0,0,6,9,(M2),Assault,,,,,,,0,0
+1922,Male,African-American,31,0,0,0,3,0,(F3),False Imprisonment,,,,,,,0,0
+1927,Male,African-American,31,0,0,0,3,4,(F3),arrest case no charge,2,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+1929,Male,Hispanic,26,0,0,0,5,0,(M2),Petit Theft,4,(M1),Unlaw Use False Name/Identity,,,,1,0
+1941,Male,African-American,28,0,0,0,1,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+1943,Male,African-American,24,0,0,0,3,0,(F3),Possession Burglary Tools,2,(F3),Grand Theft in the 3rd Degree,,,,1,0
+1944,Male,African-American,57,0,0,0,9,16,(F7),Burglary Dwelling Assault/Batt,,,,,,,0,0
+1957,Male,Caucasian,30,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+1971,Male,African-American,44,0,0,0,5,2,(F3),arrest case no charge,,,,,,,0,0
+1994,Male,Caucasian,29,0,0,0,10,7,(M1),Battery,1,(F2),Aggrav Battery w/Deadly Weapon,,(F2),Aggrav Battery w/Deadly Weapon,1,1
+1995,Male,Caucasian,51,0,0,0,1,7,(F3),Burglary Conveyance Unoccup,3,(F1),Falsely Personating Officer,,(M1),Battery,1,1
+1997,Male,Caucasian,41,0,0,0,5,10,(F3),arrest case no charge,,,,,,,0,0
+2006,Male,African-American,22,0,0,0,8,0,(F2),Poss Cocaine/Intent To Del/Sel,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+2015,Female,Hispanic,57,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+2017,Male,Caucasian,34,0,0,0,2,5,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+2019,Male,African-American,20,2,0,0,8,2,(F3),arrest case no charge,1,(M2),Operating W/O Valid License,,,,1,0
+2021,Male,Other,45,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+2036,Male,African-American,32,1,2,0,10,17,(F3),Possession of Cocaine,2,(M2),Prowling/Loitering,,,,1,0
+2042,Female,African-American,58,0,0,0,1,4,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+2044,Male,Other,33,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+2055,Male,African-American,22,0,0,0,9,6,(F3),arrest case no charge,,,,,,,0,0
+2081,Male,African-American,21,0,0,0,9,1,(F3),Possession of Cannabis,,,,,,,0,0
+2084,Male,African-American,32,0,0,0,10,1,(F2),Poss Cocaine/Intent To Del/Sel,,,,,,,0,0
+2090,Female,African-American,23,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+2094,Male,African-American,35,0,0,0,4,1,(MO3),Prostitution/Lewdness/Assign,,,,,,,0,0
+2106,Female,African-American,47,0,0,0,3,5,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+2114,Male,African-American,27,0,0,0,9,15,(MO3),Resisting W/O Violence,,,,,,,0,0
+2117,Male,African-American,57,0,0,0,9,20,(M2),arrest case no charge,,,,,,,0,0
+2124,Male,Caucasian,61,0,0,0,1,0,(F3),Battery on a Person Over 65,,,,,,,0,0
+2126,Male,Caucasian,23,0,0,0,8,5,(F3),arrest case no charge,1,(M2),DWLS Canceled Disqul 1st Off,,,,1,0
+2128,Male,African-American,26,0,0,0,3,3,(F3),Crimin Mischief Damage $1000+,1,(M1),,,,,1,0
+2136,Male,African-American,28,0,0,0,2,1,(F3),Unauth Poss ID Card or DL,,,,,,,0,0
+2147,Male,African-American,31,0,0,0,2,0,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+2155,Male,Caucasian,57,0,0,0,7,15,(F3),arrest case no charge,,,,,,,0,0
+2162,Female,African-American,37,0,0,0,4,0,(M2),Prostitution/Lewd Act Assignation,,,,,,,0,0
+2179,Male,African-American,54,0,0,0,1,9,(M2),arrest case no charge,,,,,,,0,0
+2186,Male,Caucasian,43,0,0,0,2,1,(F3),Felony Battery (Dom Strang),2,(F3),Felony Battery w/Prior Convict,,(F3),Felony Battery (Dom Strang),1,1
+2209,Male,Hispanic,28,0,0,1,3,3,(F3),Felony Battery (Dom Strang),1,(M2),Disobey Officer/Fireman,,,,1,0
+2244,Female,Other,31,0,0,0,6,4,(F3),Felony Petit Theft,,,,,,,0,0
+2260,Female,Other,24,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+2277,Male,Caucasian,25,0,0,1,9,5,(M1),arrest case no charge,1,(M1),Opert With Susp DL 2nd Offens,,(F3),Felony Battery w/Prior Convict,1,1
+2314,Male,African-American,56,0,0,0,2,3,(M2),Petit Theft,,,,,,,0,0
+2317,Male,African-American,27,0,0,0,5,6,(F3),Possession Of Methamphetamine,1,(F3),Burglary Conveyance Unoccup,,,,1,0
+2331,Male,Caucasian,41,0,0,0,4,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+2335,Male,African-American,28,0,0,0,6,4,(F7),Burglary Dwelling Assault/Batt,2,(M1),Viol Injunct Domestic Violence,,(F3),Robbery Sudd Snatch No Weapon,1,1
+2342,Female,African-American,29,0,0,0,8,11,(F3),Possession of Cocaine,,,,,,,0,0
+2350,Male,African-American,30,0,0,0,10,7,(M2),Assault,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+2371,Male,Caucasian,33,0,0,0,2,2,(M2),Driving License Suspended,,,,,,,0,0
+2392,Male,African-American,38,0,0,1,4,10,(F1),Robbery / Weapon,1,(M2),Petit Theft,,,,1,0
+2448,Male,African-American,21,0,0,0,8,0,(F3),Grand Theft in the 3rd Degree,4,(M1),Resist/Obstruct W/O Violence,,,,1,0
+2454,Male,Other,32,0,0,0,1,1,(F1),Robbery W/Firearm,,,,,,,0,0
+2458,Female,Other,33,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+2471,Male,Hispanic,45,0,0,0,6,4,(F2),Agg Assault Law Enforc Officer,,,,,,,0,0
+2481,Male,Caucasian,35,0,0,0,1,2,(F3),False Ownership Info/Pawn Item,,,,,,,0,0
+2486,Female,Caucasian,33,0,0,0,6,7,(M1),Battery,,,,,,,0,0
+2490,Male,African-American,37,0,0,0,5,8,(F3),Felony Driving While Lic Suspd,1,(M1),Opert With Susp DL 2nd Offens,,,,1,0
+2493,Female,Caucasian,32,0,0,0,6,6,(F2),arrest case no charge,1,(M2),Petit Theft,,,,1,0
+2494,Female,African-American,23,0,0,0,7,2,(F3),Grand Theft in the 3rd Degree,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+2506,Male,African-American,21,0,0,2,5,1,(F3),arrest case no charge,,,,,,,0,0
+2508,Male,African-American,25,0,0,0,7,2,(F3),arrest case no charge,,,,,,,0,0
+2513,Male,African-American,22,0,0,1,10,13,(F3),Poss Cntrft Contr Sub w/Intent,1,(M2),Driving License Suspended,,,,1,0
+2539,Female,African-American,25,0,0,0,7,4,(M2),arrest case no charge,1,(M1),Criminal Mischief>$200<$1000,,(F3),Stalking (Aggravated),1,1
+2568,Male,African-American,48,0,0,0,9,14,(F3),arrest case no charge,2,(F3),Possession of Cocaine,,,,1,0
+2584,Male,African-American,23,0,0,0,7,3,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+2599,Female,Other,45,0,0,0,2,1,(M2),arrest case no charge,,,,,,,0,0
+2605,Male,Hispanic,45,0,0,0,8,1,(M1),Viol Prot Injunc Repeat Viol,,,,,,,0,0
+2610,Male,African-American,51,0,0,0,2,1,(F2),arrest case no charge,,,,,,,0,0
+2616,Male,Hispanic,23,0,0,0,5,2,(F2),Sel/Pur/Mfr/Del Control Substa,,,,,,,0,0
+2618,Male,African-American,34,0,0,0,9,27,(F3),Felony Petit Theft,2,(F3),Grand Theft in the 3rd Degree,,,,1,0
+2621,Male,Caucasian,31,0,0,0,7,1,(F3),Grand Theft in the 3rd Degree,2,(M1),Possess Drug Paraphernalia,,(M1),Battery,1,1
+2625,Male,Hispanic,51,0,0,0,2,3,(M2),Disorderly Conduct,,,,,,,0,0
+2627,Male,African-American,31,0,0,0,2,1,(F3),arrest case no charge,,,,,,,0,0
+2632,Male,Caucasian,56,0,0,0,1,4,(F3),Possession of Cocaine,,,,,,,0,0
+2638,Male,Caucasian,23,0,0,3,4,0,(M1),Battery,,,,,,,0,0
+2641,Male,Other,31,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+2648,Male,African-American,30,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+2655,Male,African-American,22,0,0,0,3,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+2672,Male,African-American,30,1,0,0,9,5,(F3),Aggravated Assault W/dead Weap,2,(M1),Resist/Obstruct W/O Violence,,(M1),Battery,1,1
+2673,Male,African-American,23,0,1,1,2,1,(F3),Possession Burglary Tools,1,(M1),Battery,,(M1),Battery,1,1
+2682,Male,African-American,25,0,0,0,2,1,(F3),arrest case no charge,,,,,,,0,0
+2698,Female,Caucasian,60,0,0,0,1,0,(F3),Battery on Law Enforc Officer,1,(M2),Driving License Suspended,,,,1,0
+2704,Male,African-American,29,0,0,0,2,0,(F3),Felony Battery (Dom Strang),1,(M2),Operating W/O Valid License,,,,1,0
+2726,Male,African-American,25,1,0,0,9,4,(F3),Poss Pyrrolidinovalerophenone,,,,,,,0,0
+2738,Male,Other,31,0,0,0,1,0,(M1),Viol Prot Injunc Repeat Viol,,,,,,,0,0
+2742,Female,Caucasian,27,0,0,0,7,3,(F3),arrest case no charge,2,(F3),False Ownership Info/Pawn Item,,,,1,0
+2765,Female,African-American,26,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+2766,Male,African-American,28,0,0,0,8,8,(F3),Grand Theft in the 3rd Degree,3,(F3),Grand Theft Firearm,,,,1,0
+2798,Male,Caucasian,46,0,0,0,1,1,(F3),Battery on a Person Over 65,,,,,,,0,0
+2801,Male,Other,30,0,0,0,5,5,(M2),Burglary Unoccupied Dwelling,,,,,,,0,0
+2802,Male,Caucasian,43,0,0,0,1,0,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+2804,Male,African-American,44,0,0,0,4,10,(M2),Driving Under The Influence,1,(F3),Poss Pyrrolidinovalerophenone,,,,1,0
+2806,Male,African-American,25,0,0,0,7,1,(M1),Possess Cannabis/20 Grams Or Less,,,,,,,0,0
+2811,Female,African-American,23,0,0,1,10,4,(F3),arrest case no charge,,,,,,,0,0
+2815,Male,Hispanic,55,0,0,0,3,6,(F3),arrest case no charge,,,,,,,0,0
+2819,Male,African-American,24,0,0,0,10,0,(F2),Felon in Pos of Firearm or Amm,2,(M2),Trespass Struct/Conveyance,,,,1,0
+2836,Male,Other,51,0,0,0,1,1,(F3),arrest case no charge,1,(M2),No Wholesale/ Retail Dealer Lic,,,,1,0
+2848,Male,Caucasian,23,0,0,0,8,0,(M1),Viol Pretrial Release Dom Viol,2,(F2),Robbery / No Weapon,,(F2),Robbery / No Weapon,1,1
+2866,Female,Caucasian,61,0,0,0,1,2,(M2),Aggravated Assault W/Dead Weap,,,,,,,0,0
+2880,Male,Caucasian,50,0,0,0,3,8,(F3),DWI w/Inj Susp Lic / Habit Off,,,,,,,0,0
+2884,Female,Hispanic,23,0,0,1,5,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+2889,Male,African-American,26,0,0,0,4,7,(F1),Burgl Dwel/Struct/Convey Armed,,,,,,,0,0
+2893,Male,African-American,27,0,0,0,8,4,(F3),Deliver 3;4 Methylenediox,,,,,,,0,0
+2900,Male,African-American,24,0,0,0,7,3,(M1),arrest case no charge,,,,,,,0,0
+2912,Male,Caucasian,43,0,0,0,3,3,(M2),Operating W/O Valid License,,,,,,,0,0
+2917,Male,Caucasian,26,0,0,1,4,3,(M1),Petit Theft $100- $300,1,(M2),Petit Theft,,,,1,0
+2920,Female,Caucasian,47,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+2927,Male,African-American,34,0,0,0,5,7,(F3),arrest case no charge,2,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+2981,Male,Hispanic,39,0,0,0,1,0,(F3),Sell or Offer for Sale Counterfeit Goods,,,,,,,0,0
+2996,Male,Other,21,0,0,0,4,0,(F3),Purchase Cannabis,,,,,,,0,0
+3003,Male,African-American,42,0,0,0,4,1,(F3),Tampering With Physical Evidence,,,,,,,0,0
+3004,Male,African-American,29,0,0,0,8,8,(F2),arrest case no charge,3,(F3),Possession of Ethylone,,,,1,0
+3016,Male,Caucasian,32,0,0,1,5,4,(F3),arrest case no charge,,,,,,,0,0
+3017,Male,Other,29,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+3028,Female,Caucasian,53,0,0,0,-1,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+3031,Male,Caucasian,29,0,0,0,10,7,(F2),Aggravated Battery / Pregnant,2,(M1),Viol Injunct Domestic Violence,,,,1,0
+3033,Male,Other,31,0,0,0,6,5,(F3),Grand Theft in the 3rd Degree,2,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+3036,Female,African-American,33,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+3066,Female,African-American,25,0,0,0,4,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+3071,Female,African-American,41,0,0,0,2,4,(F3),arrest case no charge,1,(M2),Petit Theft,,,,1,0
+3096,Male,African-American,60,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,1,(M1),Petit Theft $100- $300,,,,1,0
+3101,Male,African-American,30,0,0,0,2,2,(F3),arrest case no charge,,,,,,,0,0
+3114,Male,Other,41,0,0,0,8,2,(F3),Felony Petit Theft,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+3121,Male,Caucasian,37,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+3127,Male,African-American,57,0,0,0,1,1,(F2),arrest case no charge,,,,,,,0,0
+3131,Male,Hispanic,40,0,0,0,5,8,(F3),Possession of Cocaine,1,(M2),Operating W/O Valid License,,,,1,0
+3137,Male,Caucasian,48,0,0,0,8,2,(M2),arrest case no charge,1,(M1),Battery,,(M1),Battery,1,1
+3149,Female,African-American,25,0,0,0,4,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+3153,Male,Caucasian,32,0,0,0,3,0,(F3),Driving While License Revoked,,,,,,,0,0
+3156,Male,Caucasian,49,0,0,0,1,4,(F3),Aggravated Assault w/Firearm,,,,,,,0,0
+3161,Male,Hispanic,36,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+3162,Male,Caucasian,29,0,0,1,7,7,(M1),Battery,4,(M2),Trespass Structure/Conveyance,,(M1),Assault On Law Enforc Officer,1,1
+3169,Male,Caucasian,53,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+3173,Male,Caucasian,60,0,0,0,1,2,(F2),arrest case no charge,,,,,,,0,0
+3179,Female,Other,45,0,0,0,1,0,(M1),Retail Theft $300 1st Offense,,,,,,,0,0
+3185,Male,Other,34,1,0,0,6,9,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+3189,Male,African-American,33,0,0,0,9,23,(F3),arrest case no charge,4,(M1),Resist/Obstruct W/O Violence,,,,1,0
+3196,Male,Caucasian,24,0,3,2,10,8,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+3202,Female,African-American,38,0,0,0,1,0,(M2),Procure For Prostitution,,,,,,,0,0
+3213,Male,Hispanic,28,0,0,0,1,0,(F3),Corrupt Public Servant,,,,,,,0,0
+3217,Male,Caucasian,26,0,0,0,2,0,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+3238,Male,African-American,29,0,0,1,10,11,(F3),arrest case no charge,2,(F3),Possession Of Methamphetamine,,,,1,0
+3246,Male,Caucasian,30,0,0,0,3,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+3250,Male,Caucasian,52,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+3266,Female,African-American,24,0,0,0,6,3,(F3),Possession Of Clonazepam,,,,,,,0,0
+3269,Male,African-American,31,0,0,0,2,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+3294,Female,Other,20,0,0,0,5,0,(M2),Aggravated Assault W/Dead Weap,1,(M2),Petit Theft,,,,1,0
+3296,Male,Caucasian,42,0,0,0,3,0,(F3),Possession of Hydrocodone,,,,,,,0,0
+3315,Male,Caucasian,62,0,0,0,1,0,(M2),Assault,,,,,,,0,0
+3329,Male,Caucasian,43,0,0,0,4,0,(M1),Driving Under The Influence,1,(M1),Driving Under The Influence,,,,1,0
+3367,Female,Caucasian,24,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+3368,Male,African-American,32,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+3375,Male,Hispanic,52,0,0,0,7,9,(F3),Felony Petit Theft,3,(F3),Grand Theft in the 3rd Degree,,,,1,0
+3397,Male,African-American,62,0,0,0,7,1,(M1),Possess Drug Paraphernalia,,,,,,,0,0
+3408,Female,Caucasian,19,0,0,0,3,0,(F3),Felony Battery w/Prior Convict,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+3411,Female,Caucasian,27,0,0,0,2,0,(F1),Burglary With Assault/battery,,,,,,,0,0
+3429,Male,African-American,21,0,0,0,6,0,(F3),Grand Theft in the 3rd Degree,1,(M2),Fail Register Vehicle,,,,1,0
+3437,Female,Caucasian,21,0,0,0,6,0,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+3442,Male,African-American,29,0,0,0,8,11,(F3),Possession of Cocaine,2,(M1),Unlaw Use False Name/Identity,,,,1,0
+3451,Male,Caucasian,46,0,0,0,2,2,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+3454,Male,African-American,28,0,0,0,3,9,(F3),Driving While License Revoked,2,(F3),Driving While License Revoked,,,,1,0
+3456,Male,African-American,21,0,1,0,8,1,(M2),Assault,2,(F3),Robbery Sudd Snatch No Weapon,,(F3),Robbery Sudd Snatch No Weapon,1,1
+3470,Male,African-American,23,0,0,0,2,1,(F2),arrest case no charge,3,(M2),Driving License Suspended,,,,1,0
+3475,Male,Caucasian,43,0,0,0,5,5,(F3),Burglary Structure Unoccup,,,,,,,0,0
+3488,Male,Caucasian,36,0,0,0,1,2,(F3),Poss3;4 Methylenedioxymethcath,,,,,,,0,0
+3494,Male,African-American,22,0,0,0,10,8,(F3),arrest case no charge,,,,,,,0,0
+3495,Male,African-American,34,0,0,0,6,1,(M1),Agg Battery Grt/Bod/Harm,,,,,,,0,0
+3504,Male,African-American,26,0,0,0,4,2,(M1),Battery,,,,,,,0,0
+3540,Male,Caucasian,23,0,0,0,2,0,(F3),Fleeing Or Attmp Eluding A Leo,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+3553,Female,Caucasian,36,0,0,0,5,3,(F3),Possession of Cocaine,,,,,,,0,0
+3558,Male,Hispanic,36,0,0,0,7,3,(M1),Battery,,,,,,,0,0
+3562,Male,African-American,52,0,0,0,1,0,(F3),Solicitation On Felony 3 Deg,,,,,,,0,0
+3564,Male,African-American,27,0,0,1,7,8,(F2),Poss Cocaine/Intent To Del/Sel,1,(M2),Operating W/O Valid License,,,,1,0
+3575,Male,African-American,44,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+3591,Male,Hispanic,27,0,0,0,3,2,(F2),Lewd/Lasc Battery Pers 12+/<16,,,,,,,0,0
+3607,Male,Caucasian,57,0,0,0,3,3,(M2),Posses/Disply Susp/Revk/Frd DL,1,(M1),Unlicensed Contractor,,,,1,0
+3608,Male,Other,37,0,0,0,2,1,(F3),Driving While License Revoked,,,,,,,0,0
+3627,Male,Caucasian,44,3,0,0,7,16,(M1),Driving Under The Influence,,,,,,,0,0
+3640,Male,African-American,24,0,0,0,7,7,(F3),arrest case no charge,,,,,,,0,0
+3645,Male,Caucasian,34,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+3647,Male,African-American,20,0,0,0,3,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+3655,Male,African-American,55,0,0,0,4,1,(F3),Possession of Cocaine,,,,,,,0,0
+3659,Male,Caucasian,66,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+3660,Male,Other,46,0,0,0,3,2,(F3),Possession Of Diazepam,,,,,,,0,0
+3663,Male,African-American,33,0,0,0,6,8,(F3),Possession of Oxycodone,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+3686,Male,African-American,24,0,0,0,5,0,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+3691,Male,Other,19,0,0,0,9,0,(M2),Battery,1,(F3),Aggravated Assault W/Dead Weap,,(F3),Aggravated Assault W/Dead Weap,1,1
+3706,Female,African-American,39,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+3724,Male,Hispanic,38,0,0,0,1,1,(M1),Driving Under The Influence,,,,,,,0,0
+3737,Female,Caucasian,27,0,0,0,2,0,(F2),Aggrav Battery w/Deadly Weapon,,,,,,,0,0
+3759,Female,African-American,31,0,0,0,8,14,(F3),Aggravated Assault,,,,,,,0,0
+3766,Male,Caucasian,22,0,0,0,2,0,(M1),DUI Level 0.15 Or Minor In Veh,1,(M2),Driving while DL Susp / Financial Resp,,,,1,0
+3777,Male,Caucasian,35,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+3785,Male,Caucasian,21,0,1,1,3,1,(M2),Unl/Disturb Education/Instui,1,(F3),,,,,1,0
+3790,Male,Caucasian,29,0,0,0,3,1,(F3),Possession of Cocaine,,,,,,,0,0
+3810,Female,Caucasian,43,0,0,0,4,0,(F3),Felony Battery,,,,,,,0,0
+3812,Male,African-American,26,0,0,0,5,1,(F3),arrest case no charge,1,(M2),Driving License Suspended,,,,1,0
+3835,Female,Caucasian,62,0,0,0,1,0,(M2),Lve/Scen/Acc/Veh/Prop/Damage,,,,,,,0,0
+3841,Male,Caucasian,56,0,0,0,2,1,(F3),Fleeing Or Attmp Eluding A Leo,,,,,,,0,0
+3843,Female,Hispanic,56,0,0,0,1,2,(M1),Viol Injunction Protect Dom Vi,1,(M2),Operating W/O Valid License,,,,1,0
+3851,Male,African-American,54,0,0,0,7,2,(M2),Assault,,,,,,,0,0
+3861,Female,African-American,26,0,0,0,6,3,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+3864,Male,Caucasian,61,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+3873,Female,African-American,54,0,0,0,8,3,(F3),arrest case no charge,,,,,,,0,0
+3896,Male,Hispanic,23,0,0,0,7,6,(M1),Viol Injunct Domestic Violence,2,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+3901,Female,African-American,21,0,0,0,9,0,(F3),arrest case no charge,,,,,,,0,0
+3905,Female,African-American,35,0,0,0,1,2,(F1),arrest case no charge,,,,,,,0,0
+3911,Male,Hispanic,45,0,0,0,6,8,(F3),Felony Petit Theft,,,,,,,0,0
+3923,Male,African-American,56,0,0,0,1,4,(F2),arrest case no charge,,,,,,,0,0
+3930,Male,Caucasian,45,0,0,0,2,2,(M1),arrest case no charge,,,,,,,0,0
+3938,Male,Caucasian,33,0,0,0,6,3,(F3),arrest case no charge,,,,,,,0,0
+3947,Male,Other,40,0,0,0,1,1,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+3952,Male,Caucasian,37,0,0,0,4,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+3968,Male,African-American,24,0,0,0,2,1,(F2),Lewd or Lascivious Molestation,,,,,,,0,0
+3982,Male,African-American,44,0,0,0,1,0,(F1),Aggrav Child Abuse-Causes Harm,,,,,,,0,0
+3996,Male,Hispanic,49,0,0,0,1,5,(F3),Possession Of Buprenorphine,,,,,,,0,0
+4009,Male,Caucasian,25,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+4011,Male,Caucasian,27,0,0,0,6,0,(F3),arrest case no charge,,,,,,,0,0
+4043,Male,Other,21,0,0,0,6,1,(M2),Disorderly Intoxication,,,,,,,0,0
+4050,Female,African-American,42,0,0,0,2,2,(M1),Possess Cannabis/20 Grams Or Less,,,,,,,0,0
+4052,Male,African-American,36,0,0,0,5,6,(F3),Cruelty Toward Child,,,,,,,0,0
+4057,Male,Other,40,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+4064,Female,Caucasian,33,0,0,0,4,2,(F3),arrest case no charge,,,,,,,0,0
+4076,Male,African-American,33,0,0,0,6,6,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+4078,Male,Hispanic,47,0,0,0,1,0,(M2),Exposes Culpable Negligence,1,(M2),Operating W/O Valid License,,,,1,0
+4081,Male,Caucasian,27,0,0,0,3,1,(F2),arrest case no charge,,,,,,,0,0
+4086,Male,African-American,26,0,0,0,10,13,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+4097,Male,Hispanic,35,0,0,0,1,1,(F3),Possession of Cocaine,,,,,,,0,0
+4109,Female,African-American,41,0,0,0,4,4,(F2),arrest case no charge,,,,,,,0,0
+4114,Male,Hispanic,44,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4118,Male,Caucasian,27,0,0,0,6,6,(F3),arrest case no charge,1,(M2),Operating W/O Valid License,,,,1,0
+4157,Male,African-American,22,0,0,0,4,0,(F3),Possession of Cocaine,1,(M1),Trespass Other Struct/Conve,,,,1,0
+4164,Female,Caucasian,40,0,0,0,4,4,(F3),Possession of Cocaine,3,(F3),Possession of Cocaine,,,,1,0
+4169,Male,Caucasian,35,0,0,0,3,2,(M1),Battery,1,(M2),Disorderly Intoxication,,,,1,0
+4178,Male,Caucasian,27,0,0,0,3,0,(F3),Burglary Conveyance Unoccup,,,,,,,0,0
+4183,Male,Caucasian,59,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4224,Male,African-American,49,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4227,Male,Hispanic,32,0,0,0,1,0,(M1),Driving Under The Influence,4,(F3),Possession Of Methamphetamine,,,,1,0
+4248,Male,Hispanic,33,0,0,0,9,8,(F3),Resist Officer w/Violence,2,(F3),Tampering With Physical Evidence,,,,1,0
+4252,Male,Caucasian,47,0,0,0,1,2,(M1),Battery,,,,,,,0,0
+4275,Male,Caucasian,53,0,0,0,3,1,(F2),arrest case no charge,,,,,,,0,0
+4278,Female,Caucasian,45,0,0,0,7,4,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4283,Female,African-American,24,0,0,0,7,2,(M1),Battery,2,(M1),Criminal Mischief>$200<$1000,,(F2),Aggrav Battery w/Deadly Weapon,1,1
+4290,Male,African-American,29,0,0,0,1,1,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+4305,Male,Hispanic,38,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+4319,Male,Caucasian,56,0,0,0,4,2,(F3),Felony/Driving Under Influence,,,,,,,0,0
+4338,Male,African-American,50,1,0,0,2,5,(F3),Possession of Cocaine,,,,,,,0,0
+4339,Male,Hispanic,41,0,0,0,10,19,(F3),Felony Petit Theft,3,(F2),Throw Deadly Missile Into Veh,,(F2),Throw Deadly Missile Into Veh,1,1
+4393,Male,African-American,21,0,0,0,4,0,(F3),Grand Theft in the 3rd Degree,1,(F3),Pos Cannabis W/Intent Sel/Del,,,,1,0
+4405,Male,African-American,35,0,0,0,8,23,(F3),arrest case no charge,,,,,,,0,0
+4427,Male,Caucasian,24,0,0,0,9,6,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+4434,Male,Caucasian,26,0,0,0,7,9,(M1),Possess Cannabis/20 Grams Or Less,1,(M1),Trespass After Warning,,(M2),Assault,1,1
+4435,Female,Other,48,0,0,0,1,0,(F2),Aggrav Battery w/Deadly Weapon,,,,,,,0,0
+4456,Male,Other,29,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4462,Female,African-American,26,0,0,0,3,1,(F1),arrest case no charge,,,,,,,0,0
+4463,Female,Caucasian,45,0,1,0,2,7,(F3),arrest case no charge,2,(M2),Operating W/O Valid License,,,,1,0
+4465,Male,Other,40,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4496,Male,African-American,24,0,0,0,3,0,(F3),Possession Burglary Tools,,,,,,,0,0
+4498,Male,Caucasian,26,0,0,0,7,10,(F3),Driving While License Revoked,4,(M1),Resist/Obstruct W/O Violence,,,,1,0
+4523,Male,Hispanic,48,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4548,Male,Caucasian,22,0,0,0,5,2,(M1),Battery,,,,,,,0,0
+4557,Male,Caucasian,33,0,0,0,5,3,(F3),False Ownership Info/Pawn Item,,,,,,,0,0
+4571,Male,African-American,21,0,0,0,3,0,(F3),Batt/on a Specified Employee,,,,,,,0,0
+4574,Male,Caucasian,31,0,0,0,8,9,(F3),arrest case no charge,1,(F3),Possession of Cocaine,,(F3),Aggravated Assault W/Dead Weap,1,1
+4587,Male,Caucasian,36,0,0,0,7,0,(M1),Battery,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+4592,Male,African-American,21,0,0,1,10,0,(M1),Battery,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+4601,Male,Caucasian,40,0,0,0,8,7,(F3),arrest case no charge,,,,,,,0,0
+4603,Male,African-American,39,0,0,0,3,2,(F3),Possession of Cannabis,1,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+4615,Female,African-American,24,0,0,0,6,2,(M2),Unlaw LicTag/Sticker Attach,,,,,,,0,0
+4624,Male,African-American,32,0,0,0,8,2,(F3),Possession of Cocaine,1,(M1),Battery,,(M1),Battery,1,1
+4635,Male,African-American,28,0,0,0,2,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4640,Male,African-American,25,0,1,1,10,10,(F2),Deliver Cocaine,3,(M1),Trespass/Property/Other Structure,,,,1,0
+4653,Male,African-American,26,0,0,0,8,11,(F2),arrest case no charge,,,,,,,0,0
+4658,Male,African-American,34,0,0,0,6,5,(M1),Battery,,,,,,,0,0
+4665,Female,African-American,21,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+4681,Male,African-American,21,0,0,0,10,1,(F3),Grand Theft in the 3rd Degree,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+4684,Male,Caucasian,35,0,0,0,10,0,(M1),Battery,1,(MO3),Resisting W/O Violence,,,,1,0
+4735,Male,African-American,23,0,0,0,7,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4740,Male,African-American,55,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4745,Female,Caucasian,31,0,0,0,5,3,(F3),arrest case no charge,,,,,,,0,0
+4765,Male,Caucasian,45,0,0,0,1,3,(F3),Aggrav Stalking After Injunctn,,,,,,,0,0
+4772,Male,African-American,24,0,0,0,10,0,(F3),Possession of Cannabis,,,,,,,0,0
+4774,Male,Caucasian,61,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+4777,Male,Other,29,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4783,Male,Caucasian,31,0,0,0,4,1,(F3),Possession Of Heroin,3,(F3),Possession Of Carisoprodol,,,,1,0
+4810,Male,African-American,69,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+4815,Female,African-American,35,0,0,0,6,2,(F3),arrest case no charge,,,,,,,0,0
+4845,Male,African-American,26,0,0,0,2,2,(F3),Burglary Conveyance Unoccup,1,(M1),Battery,,(M1),Battery,1,1
+4877,Male,Caucasian,22,0,0,0,3,2,(F3),Possession of Cocaine,1,(M2),Operating W/O Valid License,,,,1,0
+4880,Female,Caucasian,27,0,0,0,7,3,(F3),Possession of Cocaine,,,,,,,0,0
+4887,Male,Caucasian,29,0,0,0,5,6,(F3),Possession of Hydromorphone,2,(M1),Battery,,(M1),Aggravated Battery / Pregnant,1,1
+4910,Male,Caucasian,24,0,0,0,4,0,,,1,(M1),Indecent Exposure,,,,1,0
+4913,Male,African-American,31,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+4914,Male,African-American,23,0,1,0,8,7,(F3),Carrying Concealed Firearm,2,(M1),Battery,,(M1),Battery,1,1
+4915,Female,African-American,22,0,0,0,5,1,(F3),Unauth Poss ID Card or DL,,,,,,,0,0
+4924,Male,Caucasian,47,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+4936,Female,African-American,26,0,0,0,2,3,(F3),Pos Cannabis W/Intent Sel/Del,1,(F3),Felony Driving While Lic Suspd,,,,1,0
+4975,Female,Caucasian,52,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+4985,Female,African-American,20,0,0,0,5,1,(F3),Uttering a Forged Instrument,,,,,,,0,0
+4987,Male,Other,23,0,0,0,6,0,(M1),Possess Cannabis/20 Grams Or Less,,,,,,,0,0
+4992,Male,African-American,42,0,0,0,6,9,(F3),Possession of Cannabis,1,(M2),Driving License Suspended,,,,1,0
+4996,Male,Caucasian,27,0,0,0,1,1,(F2),Dealing in Stolen Property,,,,,,,0,0
+5021,Male,Caucasian,38,3,0,0,9,11,(F7),arrest case no charge,,,,,,,0,0
+5028,Male,Caucasian,53,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+5029,Female,Caucasian,22,0,0,0,3,0,(F3),Uttering a Forged Instrument,,,,,,,0,0
+5031,Male,Caucasian,21,0,0,0,2,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+5036,Male,African-American,21,0,0,11,10,2,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+5038,Male,African-American,34,0,0,0,8,3,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+5051,Male,Caucasian,30,0,1,1,3,3,(F1),Tampering with a Victim,,,,,,,0,0
+5081,Male,Caucasian,45,0,0,0,4,4,(M1),Burglary Unoccupied Dwelling,,,,,,,0,0
+5086,Male,Caucasian,46,0,0,0,1,0,(F3),Possession of Cocaine,3,(M1),Resist/Obstruct W/O Violence,,(F3),Battery on Law Enforc Officer,1,1
+5095,Male,African-American,26,0,0,0,4,3,(F7),Burglary Conveyance Armed,,,,,,,0,0
+5096,Female,African-American,38,0,0,0,4,0,(M1),Viol Prot Injunc Repeat Viol,,,,,,,0,0
+5103,Male,Hispanic,30,0,0,0,9,7,(F3),Agg Assault W/int Com Fel Dome,,,,,,,0,0
+5115,Female,Caucasian,46,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+5117,Male,African-American,20,0,1,0,9,2,(F3),Possession of Cocaine,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+5123,Male,African-American,31,0,0,0,3,3,(F7),Burglary Dwelling Assault/Batt,1,(M1),Viol Injunct Domestic Violence,,(F2),Neglect Child / Bodily Harm,1,1
+5140,Male,African-American,25,0,0,0,1,0,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+5157,Male,African-American,22,0,0,0,7,1,(F1),arrest case no charge,,,,,,,0,0
+5162,Female,Caucasian,41,0,0,0,3,0,(F2),Aggravated Battery,,,,,,,0,0
+5165,Male,Hispanic,22,0,0,0,3,1,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+5169,Male,Caucasian,25,0,0,0,5,4,(F3),Counterfeit Lic Plates/Sticker,,,,,,,0,0
+5175,Male,Caucasian,57,0,0,0,1,0,(F3),Battery on a Person Over 65,,,,,,,0,0
+5187,Male,Caucasian,71,0,0,0,2,13,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+5191,Male,Other,23,0,0,0,8,0,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+5196,Male,Hispanic,33,0,0,0,4,1,(F3),arrest case no charge,,,,,,,0,0
+5200,Male,African-American,31,0,0,0,6,0,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+5205,Male,Caucasian,24,0,0,0,9,8,(F3),arrest case no charge,1,(M2),Driving License Suspended,,,,1,0
+5218,Male,Caucasian,46,0,0,0,3,2,(F3),Solicit To Deliver Cocaine,,,,,,,0,0
+5230,Male,Hispanic,21,0,0,0,4,0,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+5238,Male,African-American,27,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+5242,Female,Hispanic,34,0,0,0,3,1,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+5253,Male,Caucasian,33,0,0,0,7,3,(F3),Poss Of 1;4-Butanediol,1,(F3),Possession Of Methamphetamine,,,,1,0
+5271,Female,Caucasian,28,0,0,0,4,0,(F3),Possession of Cocaine,1,(M1),Possess Drug Paraphernalia,,,,1,0
+5278,Male,Caucasian,21,0,0,0,8,0,(F3),Poss3;4 Methylenedioxymethcath,5,(M2),Reckless Driving,,,,1,0
+5283,Male,African-American,36,0,1,0,7,7,(F3),Crimin Mischief Damage $1000+,,,,,,,0,0
+5289,Male,African-American,28,0,0,0,5,7,(F3),arrest case no charge,1,(F2),Poss Cocaine/Intent To Del/Sel,,,,1,0
+5294,Male,African-American,44,0,0,0,4,7,(F2),arrest case no charge,,,,,,,0,0
+5303,Male,African-American,54,0,0,0,5,26,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+5316,Male,African-American,26,0,0,0,3,1,(M2),Driving License Suspended,1,(M2),Driving while DL Susp / Financial Resp,,,,1,0
+5325,Female,African-American,28,0,0,0,2,0,(M2),Assault,,,,,,,0,0
+5327,Male,Caucasian,32,0,0,0,1,1,(F3),Pos Cannabis W/Intent Sel/Del,4,(F2),Poss Firearm Commission Felony,,,,1,0
+5328,Female,Caucasian,43,0,0,0,1,1,(M2),Leaving the Scene of Accident,,,,,,,0,0
+5338,Male,Caucasian,48,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+5344,Male,Caucasian,32,0,0,0,1,0,(F2),Burglary Dwelling Occupied,,,,,,,0,0
+5347,Male,African-American,42,0,0,0,6,5,(F3),Felony Battery w/Prior Convict,,,,,,,0,0
+5357,Female,Caucasian,30,0,0,0,4,5,(M1),Driving Under The Influence,,,,,,,0,0
+5358,Male,African-American,26,0,0,0,3,0,(M1),Possess Cannabis/20 Grams Or Less,1,(F3),Possession of Cannabis,,,,1,0
+5394,Male,Caucasian,56,0,0,0,2,3,(F3),Battery on a Person Over 65,,,,,,,0,0
+5395,Male,African-American,27,0,0,0,7,2,(F3),Tamper With Witness/Victim/CI,1,(M2),Expired DL More Than 6 Months,,,,1,0
+5406,Male,Hispanic,31,0,0,0,3,2,(F3),Aggravated Assault W/dead Weap,,,,,,,0,0
+5410,Female,Other,39,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+5414,Male,African-American,28,0,0,0,9,9,(F2),Robbery / No Weapon,,,,,,,0,0
+5428,Male,Caucasian,25,0,0,0,4,5,(F3),Resist Officer w/Violence,1,(M2),DWLS Child Support 1st Offense,,,,1,0
+5445,Male,African-American,34,0,2,0,10,9,(M2),Susp Drivers Lic 1st Offense,1,(M2),Driving License Suspended,,(F6),Murder in the First Degree,1,1
+5450,Male,Caucasian,55,0,0,0,3,2,(F3),Possession Of Alprazolam,,,,,,,0,0
+5468,Male,African-American,22,0,0,0,2,0,(F3),Poss Unlaw Issue Driver Licenc,,,,,,,0,0
+5482,Male,Other,30,0,0,0,5,5,(F3),False Imprisonment,1,(M2),Lve/Scen/Acc/Veh/Prop/Damage,,,,1,0
+5490,Male,Other,28,0,0,0,10,10,(F3),Carrying Concealed Firearm,,,,,,,0,0
+5505,Male,African-American,60,0,0,0,1,0,(F3),Att Burgl Struc/Conv Dwel/Occp,,,,,,,0,0
+5510,Male,Hispanic,41,0,0,0,1,0,(F3),Poss Unlaw Issue Id,,,,,,,0,0
+5515,Male,African-American,45,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+5520,Male,Caucasian,50,0,0,0,1,1,(F2),arrest case no charge,,,,,,,0,0
+5535,Male,Caucasian,21,0,0,1,6,1,(F3),Burglary Conveyance Unoccup,3,(M1),Possess Drug Paraphernalia,,,,1,0
+5547,Male,African-American,42,0,0,0,8,19,(F2),Deliver Cocaine,,,,,,,0,0
+5557,Male,African-American,51,0,0,0,4,0,(M1),Viol Injunct Domestic Violence,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+5564,Male,African-American,35,0,0,0,4,5,(F3),Aggrav Stalking After Injunctn,3,(F3),Possession of Cocaine,,(M1),Battery,1,1
+5579,Male,African-American,43,0,0,0,9,5,(F2),Poss Wep Conv Felon,,,,,,,0,0
+5585,Male,African-American,43,0,0,0,1,4,(F2),arrest case no charge,2,(M2),Unnatural/Lascivious Act,,,,1,0
+5592,Male,Caucasian,39,0,0,0,5,9,(F3),Possession of Cocaine,1,(M2),Driving License Suspended,,,,1,0
+5614,Male,African-American,33,0,0,0,8,2,(F2),Aggrav Battery w/Deadly Weapon,2,(M1),Trespass Other Struct/Convey,,(M1),Battery,1,1
+5620,Male,African-American,25,0,0,2,9,11,(F3),Fleeing Or Attmp Eluding A Leo,3,(F3),Possession Burglary Tools,,,,1,0
+5623,Male,Caucasian,32,0,0,0,6,0,(M2),Petit Theft,1,(M1),Trespass Other Struct/Convey,,,,1,0
+5631,Male,Hispanic,36,0,0,0,9,1,(M1),Extradition/Defendants,,,,,,,0,0
+5634,Male,Caucasian,39,0,0,0,1,0,(F3),Fleeing Or Attmp Eluding A Leo,,,,,,,0,0
+5637,Male,Other,60,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+5646,Male,African-American,23,0,0,0,6,6,(F3),Possession of Cocaine,1,(M2),Petit Theft,,(F3),Battery on Law Enforc Officer,1,1
+5647,Female,African-American,42,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,1,(M2),Driving License Suspended,,,,1,0
+5670,Male,Caucasian,18,5,0,0,8,4,(F3),Burglary Conveyance Unoccup,3,(F3),Burglary Conveyance Unoccup,,,,1,0
+5692,Male,Caucasian,40,0,0,0,1,0,(M1),Battery,1,(M2),Solicit ProstitutionViolation,,,,1,0
+5697,Female,African-American,22,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+5703,Male,Hispanic,49,0,0,0,1,0,(F3),Resist Officer w/Violence,,,,,,,0,0
+5715,Male,African-American,23,0,0,0,3,0,(F3),Uttering a Forged Instrument,,,,,,,0,0
+5738,Male,African-American,51,0,0,0,3,3,(F3),DWI w/Inj Susp Lic / Habit Off,,,,,,,0,0
+5755,Male,Caucasian,56,0,0,0,1,2,(F3),Stalking (Aggravated),,,,,,,0,0
+5765,Male,African-American,51,1,0,1,9,19,(F3),Felony Petit Theft,,,,,,,0,0
+5784,Male,Caucasian,35,0,0,0,5,3,(F3),Possession of Cocaine,1,(M1),Battery,,(M1),Battery,1,1
+5785,Male,African-American,33,0,0,0,1,0,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+5821,Male,Caucasian,31,0,0,0,5,3,(M1),Battery,,,,,,,0,0
+5822,Female,Caucasian,37,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+5828,Male,African-American,39,0,0,0,8,7,(F2),Aggravated Battery / Pregnant,2,(F3),Felony Battery (Dom Strang),,(F3),Felony Battery (Dom Strang),1,1
+5833,Male,Caucasian,47,0,0,0,1,3,(F3),Resist Officer w/Violence,,,,,,,0,0
+5839,Male,African-American,35,0,0,0,4,7,(F3),Driving While License Revoked,,,,,,,0,0
+5841,Male,Caucasian,27,0,0,0,6,1,(M2),Poss Drugs W/O A Prescription,,,,,,,0,0
+5844,Male,African-American,26,0,0,1,5,3,(F3),arrest case no charge,,,,,,,0,0
+5849,Male,African-American,29,0,0,0,6,0,(M1),Battery,,,,,,,0,0
+5866,Male,Other,22,0,0,1,2,2,(F3),Agg Fleeing and Eluding,,,,,,,0,0
+5871,Male,Caucasian,54,0,0,0,2,2,(F3),arrest case no charge,,,,,,,0,0
+5873,Male,African-American,33,0,0,0,8,14,(F3),Possession of Cocaine,6,(F7),Burglary Structure Assault/Batt,,(F3),Attempted Robbery  No Weapon,1,1
+5876,Male,Caucasian,37,0,0,0,3,2,(F3),arrest case no charge,,,,,,,0,0
+5900,Male,Caucasian,32,0,0,0,5,4,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+5904,Male,African-American,26,0,0,0,8,4,(F3),Grand Theft (Motor Vehicle),1,(M1),Petit Theft $100- $300,,,,1,0
+5909,Male,Caucasian,42,0,0,0,4,4,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+5910,Male,African-American,56,0,0,0,6,18,(F2),arrest case no charge,,,,,,,0,0
+5913,Male,Caucasian,52,0,0,0,2,4,(M1),Battery,,,,,,,0,0
+5925,Male,Caucasian,63,0,0,0,1,0,(F3),Possession of Oxycodone,,,,,,,0,0
+5939,Male,Caucasian,45,0,0,0,1,2,(F3),Possession of Cocaine,,,,,,,0,0
+5960,Male,Caucasian,55,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+5993,Male,Caucasian,51,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+6004,Male,Other,30,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+6012,Male,African-American,31,0,0,0,10,1,(M2),Unlawful Alter Of Tag,,,,,,,0,0
+6016,Male,African-American,21,0,0,0,9,0,(F3),Possession Of Amphetamine,,,,,,,0,0
+6023,Male,Other,54,0,0,0,1,0,(F3),Aggravated Assault,,,,,,,0,0
+6031,Male,Other,34,0,0,0,5,4,(F3),arrest case no charge,,,,,,,0,0
+6036,Male,Other,21,0,0,0,4,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+6042,Male,Caucasian,37,0,0,0,4,4,(M1),Battery,1,(F3),Possession of Cocaine,,,,1,0
+6048,Male,African-American,31,0,0,0,8,6,(F3),Possession of Cocaine,,,,,,,0,0
+6051,Male,African-American,23,0,0,2,7,1,(M1),Battery,,,,,,,0,0
+6052,Male,African-American,30,0,0,0,9,23,(F3),Poss Pyrrolidinovalerophenone,,,,,,,0,0
+6059,Female,Caucasian,50,0,0,0,6,5,(M2),Unlaw LicTag/Sticker Attach,,,,,,,0,0
+6060,Male,African-American,25,0,2,0,9,5,(F3),Aggravated Assault w/Firearm,,,,,,,0,0
+6092,Male,African-American,33,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+6101,Male,Caucasian,27,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+6110,Female,Caucasian,23,0,0,0,3,0,(F3),Possession of Cocaine,,,,,,,0,0
+6112,Male,African-American,34,0,0,0,1,0,(M1),Driving Under The Influence,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+6120,Male,African-American,27,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+6125,Male,African-American,32,0,0,0,1,7,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+6128,Female,Hispanic,21,0,0,0,7,0,(F3),Possession of Cannabis,,,,,,,0,0
+6133,Male,Caucasian,49,0,0,0,1,0,(F3),Possession of Cocaine,,,,,,,0,0
+6137,Male,Caucasian,52,0,0,0,1,0,(F3),Manufacture Cannabis,,,,,,,0,0
+6138,Female,Caucasian,55,0,0,0,1,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+6150,Male,Caucasian,33,0,0,0,2,0,(F7),Burglary Assault/Battery Armed,,,,,,,0,0
+6160,Male,African-American,29,0,0,0,8,6,(F3),Driving While License Revoked,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+6189,Female,Caucasian,46,0,0,0,2,1,(F3),Felony Batt(Great Bodily Harm),1,(M1),Battery,,(M1),Battery,1,1
+6195,Female,Caucasian,24,0,1,0,5,3,(M1),Battery,1,(M2),Retail/Farm/Fare/Theft,,,,1,0
+6208,Male,African-American,25,0,0,0,6,1,(F3),Possession of Cocaine,,,,,,,0,0
+6222,Male,Other,23,0,0,0,3,0,(F3),Felony Battery (Dom Strang),2,(M2),Fail Register Vehicle,,,,1,0
+6244,Male,Hispanic,28,0,0,0,5,3,(F3),Possession of Cannabis,1,(F3),Possession of Cannabis,,,,1,0
+6259,Male,Caucasian,45,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+6274,Male,Hispanic,28,0,0,0,10,16,(F3),Possession Of Heroin,4,(F2),Sell/Man/Del Pos/w/int Heroin,,,,1,0
+6286,Male,African-American,24,0,0,0,9,7,(F3),Crim Attempt/Solic/Consp,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+6287,Male,Caucasian,32,0,0,0,1,0,(M2),Driving License Suspended,,,,,,,0,0
+6293,Female,African-American,44,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+6300,Male,African-American,35,0,0,0,5,1,(M1),Battery,,,,,,,0,0
+6304,Male,African-American,27,0,0,0,9,9,(F3),Poss Pyrrolidinovalerophenone,2,(M2),Driving License Suspended,,,,1,0
+6319,Male,African-American,23,0,0,0,9,2,(M1),Viol Injunct Domestic Violence,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+6345,Male,African-American,20,0,0,0,3,0,(F7),Burglary Dwelling Assault/Batt,,,,,,,0,0
+6357,Male,Caucasian,54,0,0,0,5,13,(F3),arrest case no charge,,,,,,,0,0
+6372,Male,African-American,26,0,0,0,6,4,(F2),Burglary Dwelling Occupied,2,(M1),Resist/Obstruct W/O Violence,,(F1),Aggrav Child Abuse-Agg Battery,1,1
+6380,Male,African-American,28,0,0,0,7,3,(F3),arrest case no charge,,,,,,,0,0
+6382,Male,African-American,28,0,0,0,2,2,(F3),arrest case no charge,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+6396,Male,Caucasian,54,0,0,0,1,6,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+6400,Male,African-American,30,0,0,0,4,0,(F3),Driving While License Revoked,1,(M2),Driving License Suspended,,,,1,0
+6441,Male,African-American,36,0,0,0,5,4,(F2),Aggrav Battery w/Deadly Weapon,,,,,,,0,0
+6458,Female,Hispanic,36,0,0,0,2,0,(M2),Burglary Structure Unoccup,,,,,,,0,0
+6483,Male,Caucasian,56,0,0,0,2,13,(F3),arrest case no charge,,,,,,,0,0
+6511,Male,African-American,29,0,0,0,6,1,(M1),Battery,1,(M1),Extradition/Defendants,,,,1,0
+6534,Female,African-American,33,0,0,0,7,5,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+6546,Male,Hispanic,28,0,0,0,8,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+6549,Male,African-American,52,0,0,0,1,0,(M1),Battery,2,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+6556,Female,African-American,24,0,0,0,3,1,(F3),arrest case no charge,,,,,,,0,0
+6573,Male,Other,25,0,0,0,2,0,(F3),Felony Battery,1,(M1),Battery,,(M1),Battery,1,1
+6579,Male,African-American,19,0,0,0,6,0,(F3),Crimin Mischief Damage $1000+,,,,,,,0,0
+6584,Male,Caucasian,30,0,0,1,3,1,(F3),Uttering a Forged Instrument,,,,,,,0,0
+6669,Male,African-American,39,0,0,0,10,35,(F3),arrest case no charge,,,,,,,0,0
+6682,Male,Caucasian,27,0,0,0,8,5,(F3),Possession Of Heroin,,,,,,,0,0
+6683,Female,African-American,24,0,0,0,6,3,(M2),PL/Unlaw Use Credit Card,2,(M1),Resist/Obstruct W/O Violence,,,,1,0
+6688,Male,Caucasian,42,0,0,0,4,0,(F3),Possession of LSD,,,,,,,0,0
+6699,Female,Caucasian,35,0,0,0,7,4,(M1),Battery,,,,,,,0,0
+6725,Male,Hispanic,24,0,0,1,4,2,(M2),Posses/Disply Susp/Revk/Frd DL,,,,,,,0,0
+6735,Female,Hispanic,51,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+6760,Male,African-American,33,0,0,0,7,2,(F3),Tamper With Witness,,,,,,,0,0
+6762,Male,Caucasian,20,0,0,0,3,0,,,1,(M2),Petit Theft,,,,1,0
+6769,Female,Caucasian,40,0,0,0,2,0,(F3),Possession of Cocaine,,,,,,,0,0
+6806,Female,Caucasian,41,0,0,0,8,11,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+6807,Male,African-American,31,0,0,0,9,6,(F2),Felon in Pos of Firearm or Amm,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+6809,Male,African-American,29,0,0,0,6,0,(F3),Driving While License Revoked,,,,,,,0,0
+6829,Male,African-American,49,0,0,0,2,0,,,1,(MO3),Disorderly Conduct,,,,1,0
+6831,Female,Caucasian,34,0,0,0,10,9,(MO3),arrest case no charge,4,(F2),Poss of Firearm by Convic Felo,,,,1,0
+6846,Male,African-American,22,0,0,0,6,0,(M1),Battery,1,(M2),Petit Theft,,,,1,0
+6865,Male,Caucasian,59,0,0,0,4,4,(MO3),Trespass,,,,,,,0,0
+6868,Male,African-American,38,0,0,0,8,1,(F3),Possession of Cocaine,,,,,,,0,0
+6878,Male,Caucasian,47,0,0,0,6,1,(F3),Burglary Conveyance Unoccup,1,(F3),Burglary Conveyance Unoccup,,,,1,0
+6883,Female,Caucasian,54,0,0,0,2,1,(M2),Petit Theft,,,,,,,0,0
+6891,Female,Caucasian,43,0,0,0,3,1,(F3),Possession Of Alprazolam,,,,,,,0,0
+6907,Male,African-American,29,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+6932,Male,Caucasian,22,0,0,0,7,3,(F3),Burglary Conveyance Unoccup,2,(M1),Resist/Obstruct W/O Violence,,,,1,0
+6959,Male,Hispanic,28,0,0,0,4,0,(F3),Poss3;4 Methylenedioxymethcath,,,,,,,0,0
+6960,Female,African-American,31,0,0,0,1,0,(F2),Aggrav Battery w/Deadly Weapon,,,,,,,0,0
+6969,Male,Other,50,0,0,0,1,3,(F1),arrest case no charge,,,,,,,0,0
+6970,Male,Caucasian,23,0,0,0,4,1,(F3),Tampering With Physical Evidence,,,,,,,0,0
+6981,Male,Caucasian,39,0,0,0,1,0,(F3),Resist Officer w/Violence,1,(M2),Leave Acc/Attend Veh/More $50,,,,1,0
+6995,Male,African-American,55,0,0,0,5,18,(M1),Battery,,,,,,,0,0
+6997,Male,African-American,25,0,0,0,4,2,(M2),Susp Drivers Lic 1st Offense,1,(M2),Driving License Suspended,,,,1,0
+7004,Male,Caucasian,24,0,0,2,6,2,(F3),Possession of Cannabis,,,,,,,0,0
+7015,Male,Caucasian,23,0,0,0,2,0,(F3),Poss Unlaw Issue Id,,,,,,,0,0
+7016,Female,African-American,22,0,0,0,10,4,(F3),arrest case no charge,,,,,,,0,0
+7022,Male,African-American,25,0,0,0,3,0,(M2),Operating W/O Valid License,1,(M2),Operating W/O Valid License,,,,1,0
+7029,Male,African-American,33,0,0,0,9,16,(M2),Susp Drivers Lic 1st Offense,1,(M1),Possess Cannabis/20 Grams Or Less,,(M1),Battery,1,1
+7037,Male,African-American,26,0,1,0,10,6,(F3),Poss Pyrrolidinovalerophenone,3,(F3),Grand Theft (Motor Vehicle),,(F3),Battery on Law Enforc Officer,1,1
+7039,Female,Caucasian,36,0,0,0,1,3,(F3),Leaving the Scene of Accident,2,(F3),Possession Of Heroin,,,,1,0
+7046,Female,African-American,27,0,0,0,5,0,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+7054,Male,Caucasian,51,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+7066,Male,African-American,30,0,1,2,7,12,(F3),arrest case no charge,,,,,,,0,0
+7075,Male,African-American,26,0,0,0,3,0,(F3),Forge Counterfeit Credit Card,,,,,,,0,0
+7118,Male,African-American,55,0,0,0,2,9,(F3),Possession of Cocaine,,,,,,,0,0
+7133,Male,African-American,27,0,0,0,8,9,(F3),Uttering a Forged Instrument,,,,,,,0,0
+7140,Female,African-American,42,0,0,0,6,0,,,1,(M2),Disorderly Intoxication,,,,1,0
+7143,Male,African-American,57,0,0,0,1,1,(F1),arrest case no charge,,,,,,,0,0
+7145,Male,African-American,29,0,0,0,4,1,(F3),Poss3;4 Methylenedioxymethcath,1,(M1),Battery,,(M1),Battery,1,1
+7171,Male,Caucasian,39,0,0,0,3,2,(F3),arrest case no charge,,,,,,,0,0
+7180,Male,Hispanic,37,0,0,0,4,4,(M1),Burglary Structure Unoccup,,,,,,,0,0
+7195,Male,African-American,23,0,0,0,8,1,(F3),arrest case no charge,,,,,,,0,0
+7216,Male,African-American,32,0,1,3,8,7,(F3),Felony Battery w/Prior Convict,3,(M1),Resist/Obstruct W/O Violence,,(F3),Felony Battery w/Prior Convict,1,1
+7220,Male,Caucasian,43,0,1,0,4,4,(M2),Driving Under The Influence,,,,,,,0,0
+7228,Male,Caucasian,30,3,0,0,4,4,(F2),Aggrav Battery w/Deadly Weapon,1,(M2),Fail Register Vehicle,,,,1,0
+7230,Male,African-American,44,0,0,0,10,4,(F3),Possession of Cocaine,,,,,,,0,0
+7231,Male,African-American,37,0,0,0,7,3,(M1),Battery,,,,,,,0,0
+7237,Male,Caucasian,40,0,0,0,4,3,(M1),Driving Under The Influence,,,,,,,0,0
+7245,Male,African-American,25,0,0,0,8,5,(M1),Battery,1,(F2),Burglary Unoccupied Dwelling,,(M1),Battery,1,1
+7247,Female,African-American,24,0,0,0,5,2,(F2),Burglary Conveyance Occupied,2,(F3),Uttering a Forged Instrument,,,,1,0
+7274,Male,African-American,31,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+7278,Female,African-American,22,0,0,0,9,5,(F3),Grand Theft in the 3rd Degree,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+7353,Female,African-American,37,0,0,0,5,5,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+7357,Female,Caucasian,34,0,0,0,3,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7362,Female,African-American,24,0,0,1,9,11,(M2),Petit Theft,1,(M1),Petit Theft $100- $300,,,,1,0
+7365,Male,Caucasian,28,0,0,0,3,3,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7367,Female,African-American,46,0,0,0,9,10,(F3),Possession of Cocaine,,,,,,,0,0
+7374,Male,Caucasian,25,0,0,0,3,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7408,Male,African-American,63,0,0,0,6,8,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7411,Male,African-American,30,0,0,0,9,5,(M2),Aggravated Assault W/dead Weap,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+7420,Male,Caucasian,29,0,0,0,2,0,(F3),Grand Theft in the 3rd Degree,3,(M1),Resist/Obstruct W/O Violence,,(F2),Agg Fleeing/Eluding High Speed,1,1
+7427,Male,African-American,27,0,0,0,8,8,(M2),Criminal Mischief Damage <$200,1,(M1),,,,,1,0
+7444,Male,African-American,24,0,0,0,5,1,(F3),Grand Theft (Motor Vehicle),1,(M2),Driving License Suspended,,,,1,0
+7449,Male,African-American,36,0,0,0,9,13,(F2),arrest case no charge,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+7464,Male,African-American,23,0,1,2,6,2,(F3),Attempted Robbery  No Weapon,1,(M2),Petit Theft,,,,1,0
+7469,Male,African-American,31,0,0,0,5,4,(F3),arrest case no charge,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+7472,Male,Caucasian,80,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+7500,Female,African-American,25,0,0,0,3,1,(F3),Neglect Child / No Bodily Harm,,,,,,,0,0
+7503,Male,African-American,25,0,0,0,2,1,(F3),arrest case no charge,,,,,,,0,0
+7533,Male,Hispanic,43,0,0,0,2,1,(F3),Possession of Cocaine,,,,,,,0,0
+7536,Male,Caucasian,39,0,0,0,1,1,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+7545,Male,Caucasian,24,0,0,2,5,3,(F3),Purchase Cannabis,,,,,,,0,0
+7553,Female,Other,20,0,0,0,5,0,(M2),Disorderly Conduct,,,,,,,0,0
+7562,Male,African-American,26,0,0,0,6,1,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+7563,Female,Caucasian,33,0,0,0,3,1,(M1),Possess Cannabis/20 Grams Or Less,,,,,,,0,0
+7568,Female,African-American,20,0,3,0,5,3,(M2),Operating W/O Valid License,1,(M2),Driving License Suspended,,,,1,0
+7578,Female,African-American,43,0,0,0,2,2,(M1),Viol Prot Injunc Repeat Viol,,,,,,,0,0
+7580,Female,Caucasian,51,0,0,0,8,2,(F3),arrest case no charge,1,(F3),Possession of Methadone,,,,1,0
+7589,Male,African-American,26,0,0,0,3,2,(F3),Grand Theft in the 3rd Degree,2,(F3),Possession Burglary Tools,,,,1,0
+7590,Male,African-American,51,0,0,0,6,33,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+7597,Male,Other,31,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+7626,Female,Caucasian,21,0,0,1,3,1,(M1),Battery,,,,,,,0,0
+7634,Male,African-American,36,0,0,0,1,0,(F2),Crim Use of Personal ID Info,,,,,,,0,0
+7636,Female,African-American,38,0,0,0,2,0,(M2),Fail To Obey Police Officer,,,,,,,0,0
+7638,Male,Hispanic,34,0,0,0,1,2,(M1),Viol Injunct Domestic Violence,1,(M1),Viol Prot Injunc Repeat Viol,,,,1,0
+7643,Female,African-American,23,0,0,0,3,1,(F1),arrest case no charge,,,,,,,0,0
+7647,Male,African-American,68,0,0,0,4,2,(F3),Tampering With Physical Evidence,,,,,,,0,0
+7650,Male,Caucasian,41,0,0,0,4,1,(F3),Felony Battery (Dom Strang),3,(M2),Reckless Driving,,(F3),Agg Fleeing and Eluding,1,1
+7657,Male,Hispanic,39,0,0,0,2,2,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+7674,Male,African-American,24,0,0,0,5,0,(M1),Possess Cannabis/20 Grams Or Less,1,(M1),Battery,,(M1),Battery,1,1
+7682,Female,African-American,26,0,0,0,8,1,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+7684,Female,African-American,26,0,0,0,6,6,(M1),Battery,,,,,,,0,0
+7693,Male,African-American,20,0,0,1,7,2,(F3),Principal In The First Degree,2,(F3),Grand Theft in the 3rd Degree,,(M1),Battery,1,1
+7698,Male,African-American,34,0,0,4,8,11,(F3),Aggravated Assault w/Firearm,4,(M1),Resist/Obstruct W/O Violence,,(F2),Aggravated Battery / Pregnant,1,1
+7709,Male,African-American,52,0,0,0,8,5,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7717,Male,African-American,34,2,0,1,7,8,(F3),Possession of Cocaine,3,(F3),Possession of Cocaine,,,,1,0
+7720,Male,African-American,55,0,0,0,1,0,(M1),Battery,1,(M2),Petit Theft,,(F3),Felony Battery (Dom Strang),1,1
+7723,Male,Hispanic,24,0,0,0,2,0,(F2),Burglary Conveyance Occupied,,,,,,,0,0
+7733,Male,African-American,30,0,0,0,2,3,(M1),Viol Pretrial Release Dom Viol,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+7735,Female,Caucasian,51,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+7753,Male,African-American,54,0,0,0,1,1,(M2),arrest case no charge,,,,,,,0,0
+7779,Male,Caucasian,37,0,0,0,1,0,(F1),Aggrav Child Abuse-Causes Harm,,,,,,,0,0
+7800,Female,African-American,56,0,0,0,2,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7811,Male,Caucasian,43,0,0,0,1,1,(M1),Driving Under The Influence,,,,,,,0,0
+7820,Male,African-American,30,0,0,0,2,4,(M1),Battery,1,(F3),Aggravated Assault W/Dead Weap,,(F3),Aggravated Assault W/Dead Weap,1,1
+7821,Male,Caucasian,30,0,0,0,8,1,(F3),Possession Of Fentanyl,,,,,,,0,0
+7827,Female,African-American,50,0,0,0,2,2,(M1),Battery,,,,,,,0,0
+7830,Female,African-American,31,0,0,0,5,2,(F2),Aggravated Battery / Pregnant,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+7834,Male,African-American,33,0,0,0,2,1,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+7842,Male,African-American,51,0,0,0,1,4,(F3),Aggravated Assault W/dead Weap,,,,,,,0,0
+7859,Male,Other,29,0,0,0,6,8,(F3),Felony Petit Theft,1,(M2),Driving License Suspended,,(F2),Robbery / No Weapon,1,1
+7864,Female,African-American,40,0,0,0,1,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7872,Male,African-American,29,0,0,0,9,17,(F3),arrest case no charge,,,,,,,0,0
+7879,Male,Other,36,0,0,0,4,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+7888,Male,Caucasian,22,0,0,0,9,2,(M1),Battery,,,,,,,0,0
+7898,Male,African-American,35,0,0,0,3,2,(F3),Trespassing/Construction Site,,,,,,,0,0
+7901,Male,Caucasian,25,0,0,0,7,6,(M1),Battery,1,(M1),Possess Cannabis/20 Grams Or Less,,(F3),Felony Battery w/Prior Convict,1,1
+7923,Male,Caucasian,68,0,0,0,7,7,(F3),Aggravated Assault W/dead Weap,1,(M1),Battery,,(M1),Battery,1,1
+7925,Male,African-American,23,0,0,0,8,3,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+7944,Male,Caucasian,36,0,0,0,1,2,(M1),Driving Under The Influence,,,,,,,0,0
+7963,Male,Hispanic,33,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+7978,Male,Caucasian,31,0,0,0,2,0,(F3),Possession of Ethylone,,,,,,,0,0
+7979,Male,Caucasian,45,0,0,0,6,21,(F3),Grand Theft in the 3rd Degree,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+7981,Male,Caucasian,37,1,6,0,7,13,(F3),Neglect Child / No Bodily Harm,,,,,,,0,0
+7992,Male,Caucasian,55,0,0,0,7,18,(F3),Driving While License Revoked,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+7994,Male,Hispanic,37,0,0,0,2,8,(F3),Possession of Morphine,2,(M1),Opert With Susp DL 2nd Offens,,,,1,0
+7998,Male,Caucasian,56,0,0,0,1,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+8008,Male,African-American,27,0,0,0,5,1,(M2),Fail Register Vehicle,,,,,,,0,0
+8019,Female,Caucasian,49,0,0,0,2,0,(F3),Del Cannabis For Consideration,,,,,,,0,0
+8025,Male,African-American,65,0,0,0,4,6,(M1),Battery,,,,,,,0,0
+8055,Male,Caucasian,49,0,0,0,2,2,(M1),Battery,,,,,,,0,0
+8056,Male,African-American,36,0,0,0,1,1,(M1),Driving Under The Influence,,,,,,,0,0
+8059,Male,Caucasian,58,0,0,0,3,10,(M2),Driving License Suspended,2,(F2),,,,,1,0
+8068,Male,Caucasian,32,0,0,0,8,6,(F3),Driving While License Revoked,,,,,,,0,0
+8071,Male,Caucasian,56,0,0,0,4,13,(M1),Battery,,,,,,,0,0
+8083,Male,African-American,34,0,0,0,7,12,(F3),arrest case no charge,,,,,,,0,0
+8090,Male,Caucasian,37,0,0,0,2,1,(F3),arrest case no charge,3,(F3),Possession Of Methamphetamine,,,,1,0
+8091,Male,African-American,43,0,0,0,1,0,(F3),Driving While License Revoked,2,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+8106,Male,African-American,69,0,0,0,1,1,(F3),Carrying Concealed Firearm,2,(M1),Resist Merchant W Or W/O Viol,,,,1,0
+8107,Female,Caucasian,49,0,0,0,1,1,(M2),Leaving Acc/Unattended Veh,,,,,,,0,0
+8119,Male,African-American,27,0,0,0,5,2,(F3),arrest case no charge,2,(F3),Possession Burglary Tools,,,,1,0
+8124,Female,Caucasian,36,0,0,0,2,4,(F3),Possession of Ethylone,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+8152,Male,Hispanic,25,0,0,0,1,2,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+8169,Male,African-American,25,0,0,0,3,0,(MO3),arrest case no charge,,,,,,,0,0
+8189,Male,Caucasian,48,0,0,0,1,0,(F3),Battery on a Person Over 65,,,,,,,0,0
+8195,Male,African-American,37,0,0,0,9,17,(M1),Resist/Obstruct W/O Violence,,,,,,,0,0
+8196,Male,Caucasian,51,0,0,0,5,8,(F3),Possession of Cocaine,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+8204,Male,African-American,45,1,0,0,7,16,(F3),Possession of Cocaine,,,,,,,0,0
+8205,Male,Caucasian,41,0,0,0,2,0,(F3),Poss Contr Subst W/o Prescript,1,(M2),Petit Theft,,,,1,0
+8220,Male,Hispanic,33,0,0,0,2,3,(F3),arrest case no charge,,,,,,,0,0
+8224,Male,Hispanic,32,0,0,0,1,1,(F3),Aggravated Assault W/o Firearm,,,,,,,0,0
+8235,Male,African-American,24,0,0,0,9,5,(F2),Strong Armed  Robbery,1,(F2),Burglary Unoccupied Dwelling,,,,1,0
+8240,Female,African-American,36,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+8242,Male,Hispanic,39,0,0,0,1,0,(F3),Aggravated Assault W/Dead Weap,,,,,,,0,0
+8246,Male,African-American,24,0,0,0,6,3,(F3),Agg Assault W/int Com Fel Dome,,,,,,,0,0
+8256,Male,African-American,29,0,0,0,3,11,(F3),Driving While License Revoked,3,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+8265,Male,African-American,44,0,0,0,3,0,(F2),Robbery / No Weapon,,,,,,,0,0
+8310,Male,Caucasian,22,0,0,4,3,3,(M2),Agg Fleeing and Eluding,,,,,,,0,0
+8341,Male,Caucasian,47,0,0,0,5,1,(M2),Battery,,,,,,,0,0
+8343,Male,Hispanic,30,0,0,0,8,7,(F3),Possession of Cannabis,4,(M1),Opert With Susp DL 2nd Offens,,(F3),Aggravated Assault W/Dead Weap,1,1
+8378,Male,Caucasian,64,0,0,0,10,8,(F3),Grand Theft in the 3rd Degree,2,(M2),Disorderly Conduct,,,,1,0
+8379,Male,Other,76,0,0,0,1,0,(F3),Aggravated Assault w/Firearm,,,,,,,0,0
+8401,Male,Caucasian,39,0,0,0,9,16,(F3),arrest case no charge,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+8406,Male,Caucasian,30,0,0,0,8,5,(F3),Grand Theft in the 3rd Degree,1,(M2),Driving License Suspended,,,,1,0
+8413,Male,African-American,25,0,0,0,5,3,(F2),Dealing in Stolen Property,3,(M1),Resist/Obstruct W/O Violence,,,,1,0
+8422,Female,Caucasian,31,0,0,1,8,2,(F3),Burglary Structure Unoccup,2,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+8436,Male,Other,21,0,0,0,5,0,(F3),Attempted Burg/Convey/Unocc,1,(F3),Grand Theft (Motor Vehicle),,,,1,0
+8439,Male,Hispanic,30,0,0,0,4,3,(M2),Driving Under The Influence,,,,,,,0,0
+8440,Male,Caucasian,40,0,0,0,4,6,(F3),Carrying Concealed Firearm,,,,,,,0,0
+8441,Male,Caucasian,34,0,0,0,1,2,(F3),Possession Of Amphetamine,,,,,,,0,0
+8442,Male,Other,39,0,0,0,2,2,(F3),Tamper With Witness/Victim/CI,,,,,,,0,0
+8447,Male,Other,30,0,0,0,9,13,(F3),Deliver Cannabis,5,(M2),Susp Drivers Lic 1st Offense,,(F2),Agg Fleeing/Eluding High Speed,1,1
+8459,Male,Caucasian,45,0,0,0,2,7,(F3),Possession Of Oxymorphone,,,,,,,0,0
+8464,Female,Caucasian,39,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+8467,Male,African-American,28,0,0,0,5,6,(M1),Battery,1,(M2),Fail Register Vehicle,,,,1,0
+8469,Male,African-American,29,0,1,1,4,4,(F3),Grand Theft in the 3rd Degree,1,(M1),Viol Injunct Domestic Violence,,,,1,0
+8476,Male,Caucasian,52,0,0,0,1,2,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+8478,Male,Caucasian,34,0,1,0,7,15,(F3),Possession of Cocaine,,,,,,,0,0
+8492,Male,African-American,26,0,0,0,10,7,(F3),Poss3;4 Methylenedioxymethcath,3,(F2),Procure Person Und 18/Prostitu,,,,1,0
+8503,Male,African-American,30,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+8513,Male,Caucasian,46,0,0,0,1,1,(M1),DUI Property Damage/Injury,,,,,,,0,0
+8514,Female,Caucasian,46,0,0,0,1,1,(M1),Battery,1,(F2),Aggravated Battery,,(F2),Aggravated Battery,1,1
+8516,Male,Other,57,0,0,0,1,0,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+8530,Male,Hispanic,45,0,0,0,1,0,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+8535,Male,African-American,58,0,0,0,4,0,(F3),Grand Theft (Motor Vehicle),1,(M2),Driving License Suspended,,,,1,0
+8539,Male,African-American,24,0,0,0,6,5,(F3),Poss3;4 Methylenedioxymethcath,,,,,,,0,0
+8545,Female,Hispanic,26,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+8582,Male,Caucasian,47,0,0,0,1,0,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+8603,Male,African-American,38,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+8605,Male,African-American,35,0,0,0,3,6,(F3),arrest case no charge,,,,,,,0,0
+8609,Male,African-American,25,0,0,0,6,2,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+8620,Female,African-American,32,0,1,0,6,13,(F2),arrest case no charge,,,,,,,0,0
+8627,Male,African-American,31,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+8635,Male,African-American,52,0,0,0,1,0,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+8641,Male,Caucasian,77,0,0,0,1,1,(M1),DUI Property Damage/Injury,,,,,,,0,0
+8649,Male,Caucasian,34,0,0,0,2,3,(F3),arrest case no charge,2,(F3),Possession of Hydromorphone,,,,1,0
+8651,Male,African-American,25,0,0,2,7,6,(M2),Criminal Mischief Damage <$200,2,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+8670,Female,Caucasian,31,0,0,0,6,2,(M2),Assault,,,,,,,0,0
+8675,Male,Caucasian,40,0,0,0,3,5,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+8689,Male,Caucasian,41,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+8690,Male,African-American,23,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+8744,Male,African-American,22,0,0,0,7,2,(F3),Pos Cannabis W/Intent Sel/Del,2,(M1),Unlaw Use False Name/Identity,,,,1,0
+8745,Female,Caucasian,26,0,0,0,4,1,(M2),Assault,2,(F3),Poss Pyrrolidinovalerophenone,,,,1,0
+8755,Male,Hispanic,36,0,0,0,1,0,(M1),Battery,1,(M1),Viol Pretrial Release Dom Viol,,,,1,0
+8766,Male,Caucasian,62,0,0,0,-1,2,(F3),Obtain Control Substance By Fraud,,,,,,,0,0
+8770,Male,Other,34,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+8775,Male,African-American,41,0,0,0,9,7,(F3),arrest case no charge,,,,,,,0,0
+8791,Female,Caucasian,29,0,0,0,6,0,(M1),Battery,,,,,,,0,0
+8804,Male,Hispanic,23,0,0,0,2,0,(F2),Dealing in Stolen Property,,,,,,,0,0
+8809,Female,Hispanic,22,0,0,0,5,1,(F3),arrest case no charge,1,(M2),Driving License Suspended,,,,1,0
+8811,Female,African-American,34,0,0,0,1,1,(F2),arrest case no charge,,,,,,,0,0
+8812,Male,Hispanic,32,0,0,0,3,3,(F3),arrest case no charge,,,,,,,0,0
+8825,Male,African-American,44,0,0,0,6,0,(F1),Traff In Cocaine <400g>150 Kil,,,,,,,0,0
+8837,Male,Caucasian,20,0,0,0,4,6,(F3),Burglary Conveyance Unoccup,,,,,,,0,0
+8854,Male,African-American,35,0,0,0,4,4,(F3),arrest case no charge,,,,,,,0,0
+8857,Male,Caucasian,27,0,0,0,5,0,(M1),Battery,,,,,,,0,0
+8859,Female,African-American,29,0,0,0,4,0,(F2),Aggravated Battery (Firearm),2,(F3),Burglary Conveyance Unoccup,,(M1),Battery,1,1
+8861,Male,African-American,31,0,0,0,9,0,(M1),Possession of Cocaine,,,,,,,0,0
+8867,Male,Caucasian,24,0,0,2,10,6,(F3),Burglary Conveyance Unoccup,,,,,,,0,0
+8868,Female,African-American,27,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+8881,Male,African-American,40,0,0,0,10,0,(F3),Possession of Cocaine,3,(MO3),Resisting W/O Violence,,(MO3),Battery Spouse Or Girlfriend,1,1
+8889,Male,Caucasian,36,0,0,0,2,1,(F3),Burglary Structure Unoccup,,,,,,,0,0
+8893,Male,African-American,36,0,0,0,6,0,(M1),Battery,,,,,,,0,0
+8897,Male,African-American,32,0,0,0,1,0,(F1),Robbery / Weapon,,,,,,,0,0
+8902,Male,Other,23,0,0,0,3,0,(M1),Possess Cannabis/20 Grams Or Less,1,(M2),Interfere With K9/Horses Duties,,,,1,0
+8903,Male,African-American,33,0,0,0,1,1,(F3),Tamper With Witness/Victim/CI,,,,,,,0,0
+8915,Male,African-American,36,0,0,0,6,10,(F3),Forge Counterfeit Credit Card,,,,,,,0,0
+8924,Male,African-American,27,0,0,0,4,1,(F2),Aggravated Battery / Pregnant,2,(F3),Stalking (Aggravated),,(F3),Agg Assault W/int Com Fel Dome,1,1
+8930,Male,African-American,32,0,1,0,8,13,(M1),Criminal Mischief>$200<$1000,1,(M2),Driving License Suspended,,,,1,0
+8940,Male,Other,58,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+8948,Male,Other,26,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+8963,Male,African-American,28,0,0,0,8,0,(F7),Burglary Dwelling Assault/Batt,,,,,,,0,0
+8975,Male,Caucasian,28,0,0,0,5,5,(F3),arrest case no charge,,,,,,,0,0
+8987,Female,African-American,39,0,0,0,2,0,(M1),Battery,,,,,,,0,0
+8990,Male,Other,37,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+8993,Male,African-American,27,0,0,0,2,3,(F3),Organized Fraud,,,,,,,0,0
+8996,Male,African-American,22,0,0,0,6,1,(F3),Fleeing or Eluding a LEO,,,,,,,0,0
+9001,Male,Caucasian,19,0,0,0,8,0,(F3),arrest case no charge,,,,,,,0,0
+9017,Male,Hispanic,20,0,2,1,8,2,(F3),Burglary Conveyance Unoccup,3,(F2),Grand Theft of the 2nd Degree,,,,1,0
+9025,Male,African-American,21,0,0,0,8,6,(F1),arrest case no charge,,,,,,,0,0
+9026,Male,Caucasian,35,0,0,0,6,1,(F3),arrest case no charge,,,,,,,0,0
+9028,Male,African-American,43,0,0,0,1,2,(M1),Battery,,,,,,,0,0
+9046,Male,Caucasian,34,0,0,0,5,1,(M1),Battery,,,,,,,0,0
+9064,Male,African-American,30,0,0,0,8,7,(F3),arrest case no charge,3,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+9078,Female,African-American,22,0,0,0,5,1,(F3),Possession of Cocaine,,,,,,,0,0
+9082,Male,African-American,36,0,0,1,8,16,(F3),Uttering Forged Bills,,,,,,,0,0
+9097,Male,African-American,24,0,0,0,6,6,(F3),Uttering a Forged Instrument,1,(M2),Operating W/O Valid License,,,,1,0
+9121,Female,African-American,34,0,2,0,5,7,(F2),arrest case no charge,,,,,,,0,0
+9135,Female,Hispanic,32,0,0,0,3,1,(M1),Battery,,,,,,,0,0
+9137,Male,African-American,26,0,0,0,3,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+9145,Male,African-American,23,0,1,2,2,1,(M2),Driving License Suspended,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+9174,Female,Caucasian,20,0,0,0,8,0,(F3),Fraudulent Use of Credit Card,1,(M2),Operating W/O Valid License,,,,1,0
+9176,Male,Caucasian,30,0,0,0,1,1,(F3),Grand Theft in the 3rd Degree,1,(M2),Driving License Suspended,,,,1,0
+9196,Male,Caucasian,35,0,0,0,3,0,(F3),Possession Of Methamphetamine,5,(F2),Sell/Man/Del/Pos/W/Int Methado,,,,1,0
+9200,Male,Other,39,0,0,0,4,1,(F3),arrest case no charge,,,,,,,0,0
+9201,Male,African-American,24,0,0,1,2,1,(F3),Pos Cannabis W/Intent Sel/Del,3,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+9209,Male,African-American,25,0,0,0,4,2,(F3),Grand Theft Firearm,1,(M2),Operating W/O Valid License,,,,1,0
+9211,Male,African-American,22,0,0,0,10,5,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+9218,Male,African-American,31,4,0,0,9,13,(F1),Poss/Sel/Del Cocaine 1000FT Chur,,,,,,,0,0
+9220,Male,Caucasian,29,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+9231,Male,Caucasian,35,0,0,2,4,3,(F3),Possession of Cocaine,,,,,,,0,0
+9268,Male,Caucasian,28,0,0,0,2,1,(F3),False Ownership Info/Pawn Item,1,(M2),Driving License Suspended,,,,1,0
+9276,Male,Caucasian,56,0,0,0,1,0,(M1),Driving Under The Influence,,,,,,,0,0
+9291,Male,Hispanic,21,0,0,0,3,0,(M1),Battery,,,,,,,0,0
+9298,Male,Hispanic,37,0,0,0,4,3,(M1),Driving Under The Influence,,,,,,,0,0
+9313,Male,Caucasian,30,0,0,0,2,1,(F3),Sexual Performance by a Child,,,,,,,0,0
+9317,Male,African-American,48,0,0,0,1,2,(M1),Driving Under The Influence,,,,,,,0,0
+9325,Male,Hispanic,50,0,0,0,9,3,(F3),Possession of Cocaine,4,(F3),Tampering With Physical Evidence,,,,1,0
+9335,Male,African-American,61,0,0,0,2,8,(F3),Possession of Cocaine,2,(F3),Possession of Cocaine,,,,1,0
+9344,Male,African-American,48,0,0,0,4,5,(F3),Possession of Cocaine,2,(M1),Misuse Of 911 Or E911 System,,,,1,0
+9350,Male,Caucasian,34,0,0,0,5,4,(F3),Driving While License Revoked,,,,,,,0,0
+9352,Male,Caucasian,20,0,4,0,10,4,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+9359,Male,Caucasian,36,0,0,0,1,3,(M2),Susp Drivers Lic 1st Offense,,,,,,,0,0
+9387,Male,Caucasian,29,0,0,0,2,1,(F1),arrest case no charge,,,,,,,0,0
+9415,Male,Caucasian,57,0,0,0,1,7,(F3),arrest case no charge,1,(M1),Opert With Susp DL 2nd Offens,,,,1,0
+9416,Male,African-American,26,0,0,0,5,1,(F3),arrest case no charge,1,(M2),Fail Register Vehicle,,,,1,0
+9429,Male,Hispanic,22,0,0,0,3,2,(F7),arrest case no charge,3,(M1),Viol Injunct Domestic Violence,,,,1,0
+9451,Male,African-American,28,0,0,0,7,4,(F3),Battery on a Person Over 65,1,(M2),Petit Theft,,,,1,0
+9454,Male,Caucasian,36,0,0,0,1,0,(M2),Driving Under The Influence,,,,,,,0,0
+9456,Male,African-American,21,0,0,0,7,0,(F3),Att Burgl Unoccupied Dwel,,,,,,,0,0
+9466,Male,African-American,48,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+9470,Male,African-American,25,0,0,0,3,4,(F3),arrest case no charge,,,,,,,0,0
+9476,Female,African-American,30,0,0,0,2,3,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+9484,Female,Caucasian,41,0,0,0,2,1,(M1),Battery,,,,,,,0,0
+9510,Male,Caucasian,45,0,0,0,2,0,(F3),Possession of Cocaine,,,,,,,0,0
+9516,Male,African-American,32,0,3,0,2,7,(F2),arrest case no charge,1,(M2),Driving License Suspended,,,,1,0
+9517,Female,Caucasian,57,0,0,0,1,2,(F3),Possession of Cocaine,,,,,,,0,0
+9520,Male,Hispanic,53,0,0,0,7,3,(F1),arrest case no charge,,,,,,,0,0
+9526,Female,Caucasian,21,0,0,0,8,1,(F3),arrest case no charge,2,(F3),Possession of Cannabis,,,,1,0
+9529,Male,African-American,35,0,0,0,8,6,(F3),arrest case no charge,1,(M1),Possess Cannabis/20 Grams Or Less,,(F3),Child Abuse,1,1
+9549,Male,African-American,27,0,1,2,9,12,(M1),Battery,,,,,,,0,0
+9552,Male,Hispanic,27,0,0,0,7,1,(F3),Grand Theft in the 3rd Degree,1,(F3),Grand Theft in the 3rd Degree,,,,1,0
+9569,Male,Caucasian,30,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+9570,Male,African-American,22,0,0,2,3,0,(F3),Burglary Conveyance Unoccup,3,(M2),Trespass Struct/Conveyance,,,,1,0
+9578,Male,African-American,26,0,0,0,7,5,(M1),Aggravated Battery,,,,,,,0,0
+9606,Female,Caucasian,26,0,0,0,6,3,(F3),Possession Of Alprazolam,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+9612,Male,Caucasian,44,0,0,0,1,1,(M1),Driving Under The Influence,1,(M2),Driving License Suspended,,,,1,0
+9624,Male,African-American,39,0,0,0,3,0,(M1),Resist/Obstruct W/O Violence,,,,,,,0,0
+9650,Male,African-American,30,0,0,0,3,7,(F3),Fleeing Or Attmp Eluding A Leo,,,,,,,0,0
+9665,Male,Caucasian,21,0,0,0,5,1,(F3),Burglary Conveyance Unoccup,,,,,,,0,0
+9673,Male,African-American,49,0,0,0,4,14,(M2),arrest case no charge,,,,,,,0,0
+9678,Male,Caucasian,44,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+9680,Female,African-American,44,0,0,0,2,1,(F3),arrest case no charge,,,,,,,0,0
+9700,Male,African-American,31,0,0,0,10,9,(F3),Driving While License Revoked,,,,,,,0,0
+9707,Female,Other,36,0,1,0,7,6,(F3),Possession of Cocaine,1,(M1),,,,,1,0
+9711,Male,Caucasian,30,0,0,1,2,2,(M1),Battery,,,,,,,0,0
+9722,Male,Caucasian,24,0,0,0,6,1,(F3),arrest case no charge,1,(F3),Burglary Conveyance Unoccup,,,,1,0
+9726,Male,Caucasian,36,0,0,0,2,1,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+9750,Male,African-American,24,0,0,1,2,0,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+9757,Male,African-American,21,0,0,0,6,0,(F3),Uttering a Forged Instrument,,,,,,,0,0
+9774,Male,Caucasian,46,0,0,0,2,0,(M1),Battery,1,(M2),Operating W/O Valid License,,,,1,0
+9777,Male,African-American,38,0,0,0,3,0,(F3),Cruelty Toward Child,1,(M2),Petit Theft,,,,1,0
+9790,Male,African-American,27,0,0,0,2,2,(F3),Possession of Cocaine,1,(M2),Operating W/O Valid License,,,,1,0
+9794,Female,Hispanic,20,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+9815,Female,African-American,33,0,0,0,3,2,(F3),Grand Theft (Motor Vehicle),1,(M2),Fail Register Vehicle,,,,1,0
+9823,Male,African-American,53,0,0,0,5,20,(F3),arrest case no charge,,,,,,,0,0
+9827,Male,Caucasian,27,0,0,0,2,0,(F7),Burglary Dwelling Armed,,,,,,,0,0
+9845,Male,African-American,46,0,0,0,1,0,(M1),Battery,1,(M1),,,,,1,0
+9854,Male,African-American,54,0,0,0,3,4,(F1),Sex Batt Faml/Cust Vict 12-17Y,1,(F1),Tampering with a Victim,,,,1,0
+9880,Female,Caucasian,46,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+9897,Male,Caucasian,53,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+9902,Female,African-American,32,0,0,0,1,0,(M1),Battery,1,(F2),Throw Deadly Missile Into Veh,,(F2),Throw Deadly Missile Into Veh,1,1
+9907,Male,African-American,52,0,0,0,9,7,(F3),Possession of Cocaine,2,(M1),Possess Drug Paraphernalia,,(F2),Aggravated Battery / Pregnant,1,1
+9921,Male,African-American,27,0,0,0,5,1,(M1),Burglary Unoccupied Dwelling,,,,,,,0,0
+9922,Female,African-American,26,0,1,0,3,4,(F3),arrest case no charge,,,,,,,0,0
+9924,Male,Caucasian,29,0,0,0,3,0,(F3),Aggravated Assault W/dead Weap,2,(M1),Driving Under The Influence,,,,1,0
+9934,Male,African-American,28,0,0,0,5,5,(F3),Driving While License Revoked,1,(M2),Petit Theft,,,,1,0
+9940,Female,African-American,30,0,0,0,9,15,(F3),Possession of Cocaine,1,(M2),Driving License Suspended,,,,1,0
+9949,Male,Hispanic,56,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+9966,Male,African-American,54,0,0,0,5,12,(M1),Battery,2,(M1),Viol Injunct Domestic Violence,,(F2),Throw Deadly Missile Into Veh,1,1
+9970,Male,African-American,34,3,1,0,7,13,(F3),arrest case no charge,2,(M2),Operating W/O Valid License,,,,1,0
+9980,Female,African-American,41,0,0,0,6,2,(F3),Aggravated Assault W/dead Weap,1,(F3),Fail to Report Change/Residence,,,,1,0
+9981,Male,African-American,21,0,0,0,6,1,(F3),arrest case no charge,2,(M1),Possess Drug Paraphernalia,,,,1,0
+10003,Male,African-American,57,0,0,0,4,8,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+10018,Female,African-American,24,0,0,0,5,0,(F3),Resist Officer w/Violence,,,,,,,0,0
+10027,Female,African-American,46,0,0,0,6,4,(F7),arrest case no charge,,,,,,,0,0
+10059,Female,African-American,43,0,0,0,7,6,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+10060,Female,Caucasian,25,0,0,0,7,0,(M1),Driving Under The Influence,,,,,,,0,0
+10063,Male,African-American,40,0,1,0,6,10,(F1),Arson in the First Degree,,,,,,,0,0
+10069,Female,Caucasian,36,0,0,0,2,0,(F3),Possession of Cocaine,,,,,,,0,0
+10079,Female,Hispanic,31,0,0,0,3,2,(F3),Drivg While Lic Suspd/Revk/Can,2,(F3),Driving While License Revoked,,,,1,0
+10081,Male,African-American,24,0,0,1,8,7,(M2),Prowling/Loitering,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+10082,Male,Caucasian,52,0,0,0,1,0,(F3),Possession Of Methamphetamine,,,,,,,0,0
+10097,Male,African-American,25,0,0,0,3,3,(F2),Aggravated Battery / Pregnant,1,(F2),Burglary Unoccupied Dwelling,,,,1,0
+10106,Male,African-American,47,0,0,0,6,15,(F3),arrest case no charge,,,,,,,0,0
+10109,Male,Hispanic,28,0,0,0,2,1,(F2),Aggravated Battery,,,,,,,0,0
+10119,Male,African-American,22,0,0,0,9,2,(F3),Grand Theft Dwell Property,2,(M2),Prowling/Loitering,,,,1,0
+10121,Male,African-American,25,0,0,0,9,7,(F3),Burglary Conveyance Unoccup,2,(M1),Resist/Obstruct W/O Violence,,,,1,0
+10128,Male,African-American,19,0,0,0,8,0,(F3),arrest case no charge,,,,,,,0,0
+10132,Male,Caucasian,31,0,0,0,1,2,(M1),Battery,1,(M1),Tresspass in Struct/Convey Occupy,,,,1,0
+10136,Male,African-American,34,0,0,0,3,2,(F3),Carrying Concealed Firearm,2,(M1),Resist/Obstruct W/O Violence,,,,1,0
+10162,Male,African-American,25,0,0,0,10,3,(F3),Pos Cannabis W/Intent Sel/Del,,,,,,,0,0
+10185,Male,African-American,28,0,0,0,2,0,(MO3),Manage Busn W/O City Occup Lic,,,,,,,0,0
+10193,Male,African-American,21,0,0,0,5,1,(M1),Burglary Unoccupied Dwelling,,,,,,,0,0
+10194,Male,African-American,23,1,0,0,8,5,(F3),Possession Burglary Tools,1,(F1),Aid/Abet Burglary Assault/Batt,,(F1),Aid/Abet Burglary Assault/Batt,1,1
+10196,Male,Caucasian,25,0,0,0,9,4,(F3),Possession Of Alprazolam,,,,,,,0,0
+10219,Female,Caucasian,20,0,0,0,8,0,(F3),Poss Pyrrolidinovalerophenone,1,(F3),Poss Pyrrolidinovalerophenone,,,,1,0
+10221,Male,African-American,26,0,0,1,10,5,(M2),Petit Theft,,,,,,,0,0
+10237,Male,Caucasian,21,0,0,0,9,0,(F3),Burglary Conveyance Unoccup,2,(M1),Trespass Other Struct/Convey,,,,1,0
+10242,Male,Caucasian,31,0,0,0,7,3,(M1),Driving Under The Influence,,,,,,,0,0
+10244,Male,Other,47,0,0,0,1,5,(M1),Possess Cannabis/20 Grams Or Less,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+10252,Male,African-American,24,0,0,0,4,0,(M1),Battery,,,,,,,0,0
+10264,Male,African-American,39,0,0,0,6,1,(M1),arrest case no charge,,,,,,,0,0
+10279,Female,African-American,44,0,0,0,2,1,(M1),Aggrav Child Abuse-Agg Battery,,,,,,,0,0
+10306,Male,Caucasian,49,0,0,0,1,2,(F3),Felony/Driving Under Influence,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+10324,Female,African-American,24,0,0,0,4,1,(M1),Battery,1,(M2),Driving License Suspended,,,,1,0
+10327,Male,Caucasian,23,0,0,0,5,0,(M1),Battery,,,,,,,0,0
+10335,Female,Other,45,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+10338,Female,Caucasian,34,0,0,1,2,0,(F3),Possession of Cocaine,1,(M2),Susp Drivers Lic 1st Offense,,,,1,0
+10339,Male,African-American,23,0,0,0,10,1,(M2),Prowling/Loitering,1,(M1),Battery,,(M1),Battery,1,1
+10347,Female,African-American,24,0,0,0,2,0,(F2),Agg Battery Grt/Bod/Harm,,,,,,,0,0
+10351,Female,African-American,25,0,0,0,4,0,(M1),Battery,1,(M2),Compulsory Attendance Violation,,,,1,0
+10360,Male,Caucasian,29,0,0,0,1,0,(F3),Felony Battery,,,,,,,0,0
+10369,Male,Hispanic,29,0,0,0,1,1,(F2),Agg Battery Grt/Bod/Harm,,,,,,,0,0
+10372,Male,Caucasian,35,0,0,0,1,0,(M1),Driving Under The Influence,1,(M2),Driving License Suspended,,,,1,0
+10381,Female,African-American,24,0,0,0,6,1,(F2),Sale/Del Cannabis At/Near Scho,2,(M1),Battery,,(M1),Aggrav Battery w/Deadly Weapon,1,1
+10401,Female,Caucasian,47,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+10406,Male,African-American,43,0,0,0,7,2,(F3),Possession of Cocaine,,,,,,,0,0
+10411,Male,African-American,63,0,0,0,9,16,(M1),Battery,,,,,,,0,0
+10431,Male,Caucasian,41,0,0,0,1,3,(M2),Driving Under The Influence,,,,,,,0,0
+10434,Male,Caucasian,47,0,0,0,2,2,(M1),Battery,,,,,,,0,0
+10449,Female,African-American,51,0,0,0,2,3,(M1),Tampering With Physical Evidence,,,,,,,0,0
+10454,Male,African-American,34,0,0,0,6,12,(F3),Leaving the Scene of Accident,1,(F3),Poss3;4 Methylenedioxymethcath,,,,1,0
+10457,Male,African-American,28,0,0,0,7,9,(F1),arrest case no charge,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+10467,Male,Caucasian,45,0,0,0,1,2,(M2),DUI Property Damage/Injury,,,,,,,0,0
+10475,Male,Caucasian,31,0,0,0,9,0,(MO3),arrest case no charge,,,,,,,0,0
+10481,Male,African-American,35,0,0,0,8,3,(M2),Criminal Mischief Damage <$200,,,,,,,0,0
+10487,Male,Caucasian,58,0,0,0,2,12,(F3),Felony Petit Theft,1,(M2),Petit Theft,,,,1,0
+10489,Female,Caucasian,22,0,0,0,8,1,(M1),Battery,,,,,,,0,0
+10501,Female,African-American,32,0,0,0,4,0,(F3),Possession of Cocaine,,,,,,,0,0
+10502,Male,Caucasian,31,0,0,0,1,0,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+10510,Male,Caucasian,39,0,0,0,1,1,(F3),Possession Of Anabolic Steroid,,,,,,,0,0
+10511,Male,African-American,29,0,0,0,9,8,(M1),Possess Cannabis/20 Grams Or Less,3,(F3),Possession of Cocaine,,(M1),Battery,1,1
+10523,Male,Other,29,0,0,0,2,4,(F2),Throw Deadly Missile Into Veh,3,(M2),Culpable Negligence,,(F2),Agg Battery Grt/Bod/Harm,1,1
+10542,Male,Caucasian,26,0,0,0,7,4,(F3),Deliver 3;4 Methylenediox,1,(M2),Oper Motorcycle W/O Valid DL,,,,1,0
+10544,Male,Caucasian,67,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+10550,Male,Caucasian,28,0,0,0,4,0,(M1),Driving Under The Influence,,,,,,,0,0
+10568,Male,Caucasian,34,0,0,0,4,11,(F3),Driving While License Revoked,,,,,,,0,0
+10584,Male,Caucasian,25,0,0,0,5,2,(F3),Possession of Cocaine,3,(F3),False Ownership Info/Pawn Item,,,,1,0
+10587,Male,Other,29,0,0,1,5,5,(F3),Felony Battery w/Prior Convict,,,,,,,0,0
+10596,Male,Other,22,0,0,1,3,3,(F3),arrest case no charge,,,,,,,0,0
+10600,Male,African-American,38,1,4,0,8,25,(MO3),Poss Of Controlled Substance,,,,,,,0,0
+10601,Female,Caucasian,36,0,0,0,2,3,(F3),Possession Of Alprazolam,,,,,,,0,0
+10604,Female,Caucasian,22,0,0,0,6,2,(F3),arrest case no charge,1,(M1),Battery,,(M1),Battery,1,1
+10606,Male,Caucasian,25,0,0,0,9,0,(M2),Disorderly Intoxication,,,,,,,0,0
+10611,Male,Caucasian,54,0,0,0,3,1,(F3),,1,(M1),Trespass Other Struct/Conve,,,,1,0
+10616,Male,African-American,28,0,0,0,5,0,(F2),arrest case no charge,,,,,,,0,0
+10619,Male,African-American,22,0,0,0,10,0,(M1),Battery,2,(M1),Possess Cannabis/20 Grams Or Less,,(M1),Battery,1,1
+10663,Male,African-American,50,0,0,0,1,2,(F3),Possession of Cocaine,,,,,,,0,0
+10665,Male,African-American,60,0,0,0,6,13,(F3),Felony Petit Theft,1,(F3),Felony Petit Theft,,,,1,0
+10685,Female,African-American,28,0,0,0,2,1,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+10713,Female,Hispanic,24,0,0,0,3,1,(M1),Battery,,,,,,,0,0
+10714,Female,Caucasian,55,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+10720,Male,African-American,22,0,0,0,6,1,(M1),Battery,1,(M1),Battery,,(M1),Battery,1,1
+10736,Male,African-American,24,0,0,0,6,11,(F3),arrest case no charge,2,(F3),Possession Of Alprazolam,,,,1,0
+10738,Male,Hispanic,33,0,0,0,3,0,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+10748,Male,Caucasian,44,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+10761,Male,African-American,24,0,0,0,4,4,(F2),Burglary Unoccupied Dwelling,3,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+10771,Male,African-American,22,0,0,0,2,0,(F2),Burglary Unoccupied Dwelling,,,,,,,0,0
+10772,Male,African-American,27,0,0,0,10,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+10774,Male,African-American,47,0,0,0,1,7,(F2),Agg Battery Grt/Bod/Harm,3,(F1),Kidnapping,,(F3),Aggravated Assault W/dead Weap,1,1
+10783,Male,Caucasian,66,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+10784,Male,Caucasian,39,0,0,0,2,0,(F3),Grand Theft (Motor Vehicle),,,,,,,0,0
+10785,Female,Caucasian,26,0,0,0,2,0,(F3),Neglect Child / No Bodily Harm,,,,,,,0,0
+10792,Male,African-American,25,0,0,0,3,1,(F2),arrest case no charge,,,,,,,0,0
+10800,Male,Caucasian,22,0,0,0,3,1,(M1),Stalking (Aggravated),,,,,,,0,0
+10802,Male,African-American,34,0,0,0,9,0,(F3),Possession of Cocaine,,,,,,,0,0
+10813,Male,African-American,27,0,0,0,5,4,(F2),arrest case no charge,,,,,,,0,0
+10827,Male,Caucasian,40,0,0,0,1,0,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+10836,Male,African-American,25,0,0,0,6,3,(F3),Driving While License Revoked,1,(M1),Criminal Mischief>$200<$1000,,,,1,0
+10840,Male,Caucasian,59,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+10841,Male,African-American,27,0,0,0,1,0,(M1),Battery,1,(F3),Grand Theft (Motor Vehicle),,,,1,0
+10855,Male,African-American,56,0,0,0,6,31,(F3),Possession of Cocaine,2,(M1),Trespass/Property/Other Structure,,,,1,0
+10867,Male,African-American,32,0,0,0,6,2,(F3),Aggravated Assault w/Firearm,,,,,,,0,0
+10900,Male,African-American,23,0,0,1,2,0,(F3),Felony Battery (Dom Strang),,,,,,,0,0
+10921,Male,African-American,26,0,0,0,2,2,(M2),Unlaw LicTag/Sticker Attach,,,,,,,0,0
+10927,Male,African-American,21,0,0,0,6,1,(F3),Robbery Sudd Snatch No Weapon,,,,,,,0,0
+10931,Male,Hispanic,28,0,0,0,3,1,(F3),Robbery Sudd Snatch No Weapon,,,,,,,0,0
+10937,Male,Caucasian,19,0,0,0,8,0,(F3),Resist Officer w/Violence,,,,,,,0,0
+10939,Female,Caucasian,54,0,0,0,1,1,(M1),Battery,,,,,,,0,0
+10941,Male,Caucasian,28,0,0,0,4,0,(M1),Battery,2,(M1),Battery,,(F3),Aggravated Assault W/dead Weap,1,1
+10962,Female,Caucasian,36,0,0,0,6,4,(M1),Battery,1,(F3),Driving While License Revoked,,,,1,0
+10967,Male,African-American,34,0,0,0,2,3,(M2),Disorderly Conduct,1,(M2),Driving License Suspended,,,,1,0
+10994,Male,African-American,30,0,0,0,2,0,(M1),Possess Cannabis/20 Grams Or Less,2,(F3),Possession of Cannabis,,,,1,0
+10997,Male,African-American,23,0,0,0,3,0,(F3),Leaving the Scene of Accident,,,,,,,0,0
+10999,Male,Other,57,0,0,0,1,0,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+11003,Male,African-American,52,0,0,0,1,1,(F1),Grand Theft in the 1st Degree,1,(M2),Driving License Suspended,,,,1,0
+11016,Female,Caucasian,38,0,0,0,1,0,(F3),Battery on a Person Over 65,,,,,,,0,0
+11042,Female,African-American,31,0,0,0,2,1,(M1),Driving Under The Influence,,,,,,,0,0
+11043,Male,African-American,25,0,0,0,10,10,(M2),DWLS Fin Obligation 1stOfense,1,(M1),Battery,,(M1),Battery,1,1
+11052,Male,Hispanic,21,1,0,0,10,1,(F3),arrest case no charge,1,(M1),Make False Affidavit For DL,,,,1,0
+11053,Male,African-American,21,0,0,0,8,0,(M2),Assault,1,(M1),Resist/Obstruct W/O Violence,,,,1,0
+11069,Male,Caucasian,30,0,0,0,9,1,(F2),arrest case no charge,,,,,,,0,0
+11091,Female,African-American,26,0,0,0,3,2,(M1),Battery,,,,,,,0,0
+11115,Female,African-American,22,0,0,1,8,1,(M1),Petit Theft $100- $300,,,,,,,0,0
+11131,Female,African-American,36,0,0,0,7,5,(F1),arrest case no charge,1,(M1),Battery,,(M1),Battery,1,1
+11165,Male,African-American,21,0,0,0,6,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+11177,Male,Caucasian,27,0,0,0,5,5,(F3),arrest case no charge,3,(M2),Leave Acc/Attend Veh/More $50,,,,1,0
+11188,Male,African-American,30,1,2,0,10,8,(F2),arrest case no charge,,,,,,,0,0
+11201,Female,Caucasian,38,0,0,0,1,2,(F3),arrest case no charge,,,,,,,0,0
+11207,Male,African-American,86,0,0,0,1,4,(M2),arrest case no charge,1,(M2),Petit Theft,,,,1,0
+11237,Male,Caucasian,42,0,0,0,1,1,(M1),Driving Under The Influence,,,,,,,0,0
+11257,Male,Caucasian,51,0,0,0,1,1,(F3),Aggrav Stalking After Injunctn,,,,,,,0,0
+11263,Female,Hispanic,26,0,0,0,2,2,(M2),Criminal Mischief,1,(M2),Driving License Suspended,,,,1,0
+11268,Male,Caucasian,25,0,0,0,6,2,(M1),Battery,,,,,,,0,0
+11295,Male,African-American,25,0,0,0,2,3,(F3),Possession Of Amphetamine,3,(M1),Unlaw Use False Name/Identity,,,,1,0
+11296,Male,African-American,25,1,0,0,10,9,(F3),Felony Batt(Great Bodily Harm),1,(F2),Aggrav Battery w/Deadly Weapon,,(F2),Aggrav Battery w/Deadly Weapon,1,1
+11297,Male,Caucasian,39,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+11313,Male,Caucasian,51,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+11317,Female,Other,47,0,0,0,1,0,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+11330,Male,Caucasian,58,0,0,0,1,0,(M2),Driving Under The Influence,,,,,,,0,0
+11332,Female,Caucasian,53,0,0,0,8,0,(F3),Felony Petit Theft,,,,,,,0,0
+11333,Male,African-American,38,0,0,0,4,5,(F3),Felony Driving While Lic Suspd,,,,,,,0,0
+11386,Male,Caucasian,26,0,0,0,7,5,(M2),Susp Drivers Lic 1st Offense,2,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+11395,Male,African-American,20,0,0,0,10,0,(F3),Robbery Sudd Snatch No Weapon,2,(M1),Petit Theft $100- $300,,,,1,0
+11421,Male,Caucasian,22,0,0,0,3,0,(F3),Battery on Law Enforc Officer,,,,,,,0,0
+11440,Male,Caucasian,53,0,0,0,2,5,(M1),Battery,,,,,,,0,0
+11445,Female,African-American,28,0,0,0,6,4,(M1),Battery,2,(M2),Unlaw LicTag/Sticker Attach,,,,1,0
+11449,Male,African-American,42,0,0,0,6,0,(M1),Battery,,,,,,,0,0
+11454,Male,Caucasian,56,0,0,0,7,8,(F3),Felony Petit Theft,,,,,,,0,0
+11477,Male,Hispanic,27,0,0,0,3,0,(M1),Driving Under The Influence,,,,,,,0,0
+11479,Male,Caucasian,28,0,0,0,1,0,(F3),Crim Use of Personal ID Info,,,,,,,0,0
+11480,Female,Caucasian,34,0,0,0,4,1,(F3),Burglary Conveyance Unoccup,,,,,,,0,0
+11490,Female,Caucasian,39,0,0,0,1,0,(F3),Possession of Morphine,,,,,,,0,0
+11510,Male,Caucasian,28,0,0,0,2,4,(M1),Battery,,,,,,,0,0
+11516,Male,African-American,26,0,0,0,1,0,(F2),Aggravated Battery / Pregnant,,,,,,,0,0
+11528,Male,Caucasian,29,0,1,0,1,1,(F3),Grand Theft in the 3rd Degree,,,,,,,0,0
+11539,Male,Hispanic,53,0,0,0,1,1,(F3),arrest case no charge,,,,,,,0,0
+11544,Male,Other,31,0,0,0,5,11,(F3),Possession of Cocaine,,,,,,,0,0
+11557,Male,Caucasian,25,0,0,0,4,0,(F3),Deposit Item W/I/Defraud,,,,,,,0,0
+11561,Male,African-American,58,0,0,0,1,6,(F3),Aggravated Assault W/Dead Weap,1,(M2),Petit Theft,,,,1,0
+11596,Male,African-American,21,0,0,0,7,0,(F3),Burglary Conveyance Unoccup,1,(M1),Making An Affray/Riot,,,,1,0
+11604,Male,African-American,36,0,0,0,3,4,(F3),arrest case no charge,1,(M1),Battery,,(M1),Battery,1,1
+11613,Female,African-American,25,0,0,0,9,2,(F1),arrest case no charge,1,(F3),Aggravated Assault w/Firearm,,(F3),Aggravated Assault w/Firearm,1,1
+11618,Male,Hispanic,30,0,0,0,1,0,(F3),Possession of Cocaine,,,,,,,0,0
+11623,Male,African-American,26,0,0,0,2,0,(M1),DUI Property Damage/Injury,,,,,,,0,0
+11628,Male,Other,45,0,0,0,1,0,(M1),Battery,,,,,,,0,0
+11637,Female,Caucasian,38,0,0,0,3,0,(M2),DUI - Enhanced,,,,,,,0,0
+11661,Male,Caucasian,35,0,0,0,1,1,(F3),Crim Use of Personal ID Info,,,,,,,0,0
+11688,Male,African-American,33,0,0,0,2,5,(F3),arrest case no charge,,,,,,,0,0
+11702,Male,Other,24,0,0,0,10,1,(F3),arrest case no charge,,,,,,,0,0
+11704,Male,Caucasian,60,0,0,0,1,8,(F3),arrest case no charge,,,,,,,0,0
+11716,Male,African-American,50,0,0,0,2,2,(F3),Solicit To Deliver Cocaine,,,,,,,0,0
+11729,Male,Caucasian,55,0,0,0,1,6,(F3),Possession of Morphine,,,,,,,0,0
+11734,Male,African-American,38,2,0,0,10,21,(F3),Felony Battery w/Prior Convict,1,(M1),Possess Cannabis/20 Grams Or Less,,,,1,0
+11740,Female,Other,54,0,0,0,1,0,(M1),DUI Level 0.15 Or Minor In Veh,,,,,,,0,0
+11754,Male,Caucasian,22,0,3,5,7,3,(M1),Battery,2,(M2),Driving License Suspended,,,,1,0
