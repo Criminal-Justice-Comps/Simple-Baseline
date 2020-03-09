@@ -161,12 +161,49 @@ Section 4: Calculating Metrics of Evaluation
 # Output: integer between 0-1 representing what % of the guesses were correct
 def get_accuracy(guesses, correct):
     total_correct = 0
-    num_zero = 0
-    num_one = 0
     for i in range(len(guesses)):
         if guesses[i] == int(correct[i][GROUND_TRUTH_NAME]):
             total_correct += 1
     return total_correct/len(guesses)
+
+def get_fp_by_race(guesses,correct,race):
+    total_correct_af_am = 0
+    total_correct_cauc = 0
+    print(all_data)
+    for i in range(len(guesses)):
+        if guesses[i] == int(correct[i][GROUND_TRUTH_NAME]):
+            if correct[i]['race'] == 'African-American':
+                total_correct_af_am += 1
+            elif correct[i]['race'] == 'Caucasian':
+                total_correct_cauc += 1
+    return total_correct/len(guesses)
+
+# Output: a list of ints - [true pos rate, false pos rate, true neg rate, false neg rate]
+def get_pr_nr_by_race(predicted, actual,race):
+    fp = 0
+    tn = 0
+    p = 0
+    n = 0
+    total = len(predicted)
+    if len(predicted) != len(actual): return 0
+    for i in range(0,len(predicted)):
+        if actual[i]['race'] == race:
+            if int(predicted[i]) > 5:
+                p += 1
+                if actual[i][GROUND_TRUTH_NAME] == NO_RECIDIVISE_NAME:
+                    fp += 1
+            elif int(predicted[i]) < 5:
+                n += 1
+                if actual[i][GROUND_TRUTH_NAME] == NO_RECIDIVISE_NAME:
+                    tn += 1
+    tp = p - fp
+    fn = n - tn
+    if fp+tn == 0:
+        return 0
+    else:
+        # [false pos rate, false neg rate]
+        return [fp/(fp+tn), fn/(fn+tp)]
+
 
 # Input: a list of dictionaries (where each dict represents a person)
 # Output: integer between 0-1 representing what % of the guesses were correct, guesses list (0 or 1)
@@ -218,10 +255,12 @@ def get_mean_distance_compas(data):
 # Input: a list of people (rep by dictionaries), ie the entire dataset
 # Output: a list of ints - [true pos rate, false pos rate, true neg rate, false neg rate]
 # More info: "get_positiverates_negativerates_compas()"
-def get_pr_nr_compas(all_people):
+def get_pr_nr_compas(all_people, race=None):
     #return get_pr_nr([person[DECILE_SCORE_NAME] for person in all_people], [person[GROUND_TRUTH_NAME] for person in all_people])
-    return get_pr_nr([person[DECILE_SCORE_NAME] for person in all_people], all_people)
-
+    if race == None:
+        return get_pr_nr([person[DECILE_SCORE_NAME] for person in all_people], all_people)
+    else:
+        return get_pr_nr_by_race([person[DECILE_SCORE_NAME] for person in all_people], all_people, race)
 # Input: a list of predicted values (0 | 1), a list of actual truth values (0 | 1)
 # Output: a list of ints - [true pos rate, false pos rate, true neg rate, false neg rate]
 # More info: "get_positiverates_negativerates()"
@@ -233,6 +272,7 @@ def get_pr_nr(predicted, actual):
     total = len(predicted)
     if len(predicted) != len(actual): return 0
     for i in range(0,len(predicted)):
+
         if int(predicted[i]) > 5:
             p += 1
             if actual[i][GROUND_TRUTH_NAME] == NO_RECIDIVISE_NAME:
@@ -373,6 +413,7 @@ def display_all_methods(all_people):
     plot_pr_nr_acc(get_pr_nr(decile, all_people), acc, "Random Baseline Results")
     create_file("randomBaselineResults.csv",getTruthGuessString(guesses, all_people), False)
 
+
     # COMPAS
     compas_guesses, acc_compas = get_acc_compas(all_people)
     dist_compas = get_mean_distance_compas(all_people)
@@ -390,6 +431,14 @@ def display_all_methods(all_people):
     #plot_dist_compas(transformed_data)
     plot_pr_nr_acc(get_pr_nr_compas(transformed_data), acc_foolish, "Stereotyped Condition Results")
     create_file("foolishConditionResults.csv",getTruthGuessString(foolish_guesses, all_people), False)
+
+    # [false pos rate, false neg rate]
+    fp_fn_afam = get_pr_nr_compas(transformed_data,'African-American')
+    print("African-Am: fpr=", fp_fn_afam[0], ", fnr:", fp_fn_afam[1])
+    # [false pos rate, false neg rate]
+    fp_fn_cauc = get_pr_nr_compas(transformed_data,'Caucasian')
+    print("Caucasian: fpr=", fp_fn_cauc[0], ", fnr:", fp_fn_cauc[1])
+
 
     # Create a bar chart comparing the accuracies of the 3 algorithms
     all_accs = [acc, acc_compas, acc_foolish]
