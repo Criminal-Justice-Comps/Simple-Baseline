@@ -261,6 +261,7 @@ def get_pr_nr_compas(all_people, race=None):
         return get_pr_nr([person[DECILE_SCORE_NAME] for person in all_people], all_people)
     else:
         return get_pr_nr_by_race([person[DECILE_SCORE_NAME] for person in all_people], all_people, race)
+
 # Input: a list of predicted values (0 | 1), a list of actual truth values (0 | 1)
 # Output: a list of ints - [true pos rate, false pos rate, true neg rate, false neg rate]
 # More info: "get_positiverates_negativerates()"
@@ -494,35 +495,6 @@ def translation_grid_search(all_people, start=0, stop=10, step=1):
         for j in range(len(accs[i])):
             if accs[i][j] > best:
                 print("Accuracy of", accs[i][j], "acheived at true-case translation of", i, "and false-case translation of", j)
-
-"""
--------------------------------------------------
-Section 9: Discuss with Group (TODO)
--------------------------------------------------
-"""
-# Issue: uses the recidivism rate in the data to
-#   Isn't this a problem, becuase we're using the "answer" to calculate our guess
-# Should be re-written to guess randomly everytime, and the accuracy should match
-# the recidivism rate
-def random_baseline_old(data):
-    total = 0
-    for person in data:
-        total += int(person[GROUND_TRUTH_NAME])
-
-    rate_recid = total/len(data)
-    guesses = []
-    decile = []
-    for i in range(len(data)):
-        guess = scipy.random.ranf()
-        if guess <= rate_recid:
-            guesses.append(1)
-            decile.append(10)
-        else:
-            guesses.append(0)
-            decile.append(1)
-    return guesses, decile
-
-
 
 
 
